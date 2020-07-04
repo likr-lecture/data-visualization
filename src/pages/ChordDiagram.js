@@ -22,7 +22,7 @@ const ChordDiagram = ({ labels, matrix, color }) => {
   const arc = d3.arc().innerRadius(innerRadius).outerRadius(outerRadius);
 
   return (
-    <svg width={width} height={height}>
+    <svg viewBox={`0 0 ${width} ${height}`}>
       <g transform={`translate(${width / 2},${height / 2})`}>
         <g>
           {chords.map((d, i) => (
@@ -263,8 +263,22 @@ export const ChordDiagramPage = () => {
 
   return (
     <div>
-      <ChordDiagram labels={labels} matrix={matrix} color={color} />
-      <ChordDiagram labels={labels} matrix={transpose(matrix)} color={color} />
+      <div className="columns">
+        <div className="column">
+          <figure className="image is-1by1">
+            <ChordDiagram labels={labels} matrix={matrix} color={color} />
+          </figure>
+        </div>
+        <div className="column">
+          <figure className="image is-1by1">
+            <ChordDiagram
+              labels={labels}
+              matrix={transpose(matrix)}
+              color={color}
+            />
+          </figure>
+        </div>
+      </div>
     </div>
   );
 };

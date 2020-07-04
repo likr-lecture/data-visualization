@@ -29,7 +29,7 @@ const ScatterPlot = ({
 
   const [visibility, setVisibility] = React.useState(new Set(color.domain()));
   return (
-    <svg width={width} height={height}>
+    <svg viewBox={`0 0 ${width} ${height}`}>
       <g transform={`translate(${margin},${margin + contentHeight})`}>
         <line x0="0" y0="0" x1={contentWidth} y1="0" stroke="black" />
         {xScale.ticks().map((x, i) => {
@@ -138,66 +138,64 @@ export const ScatterPlotPage = () => {
   }, []);
 
   return (
-    <div className="container">
-      <div className="content">
-        <h1>Scatter Plot of Iris Flower Dataset</h1>
-        <div className="field">
-          <label className="label">Horizontal Axis</label>
-          <div className="control">
-            <div className="select">
-              <select
-                value={xProperty.property}
-                onChange={(event) => {
-                  setXProperty(
-                    variables.find((v) => v.property === event.target.value),
-                  );
-                }}
-              >
-                {variables.map((variable, i) => {
-                  return (
-                    <option key={i} value={variable.property}>
-                      {variable.label}
-                    </option>
-                  );
-                })}
-              </select>
-            </div>
+    <div>
+      <h1 className="title is-3">Scatter Plot of Iris Flower Dataset</h1>
+      <div className="field">
+        <label className="label">Horizontal Axis</label>
+        <div className="control">
+          <div className="select">
+            <select
+              value={xProperty.property}
+              onChange={(event) => {
+                setXProperty(
+                  variables.find((v) => v.property === event.target.value),
+                );
+              }}
+            >
+              {variables.map((variable, i) => {
+                return (
+                  <option key={i} value={variable.property}>
+                    {variable.label}
+                  </option>
+                );
+              })}
+            </select>
           </div>
-        </div>
-        <div className="field">
-          <label className="label">Vertical Axis</label>
-          <div className="control">
-            <div className="select">
-              <select
-                value={yProperty.property}
-                onChange={(event) => {
-                  setYProperty(
-                    variables.find((v) => v.property === event.target.value),
-                  );
-                }}
-              >
-                {variables.map((variable, i) => {
-                  return (
-                    <option key={i} value={variable.property}>
-                      {variable.label}
-                    </option>
-                  );
-                })}
-              </select>
-            </div>
-          </div>
-        </div>
-        <div>
-          <ScatterPlot
-            data={data}
-            margin={80}
-            contentWidth={400}
-            contentHeight={400}
-            xProperty={xProperty}
-            yProperty={yProperty}
-          />
         </div>
       </div>
+      <div className="field">
+        <label className="label">Vertical Axis</label>
+        <div className="control">
+          <div className="select">
+            <select
+              value={yProperty.property}
+              onChange={(event) => {
+                setYProperty(
+                  variables.find((v) => v.property === event.target.value),
+                );
+              }}
+            >
+              {variables.map((variable, i) => {
+                return (
+                  <option key={i} value={variable.property}>
+                    {variable.label}
+                  </option>
+                );
+              })}
+            </select>
+          </div>
+        </div>
+      </div>
+      <figure className="image is-1by1">
+        <ScatterPlot
+          data={data}
+          margin={80}
+          contentWidth={600}
+          contentHeight={600}
+          xProperty={xProperty}
+          yProperty={yProperty}
+        />
+      </figure>
     </div>
   );
 };
