@@ -10,6 +10,9 @@ export const Top = () => {
           <Link to="/bar-chart">棒グラフ</Link>
         </li>
         <li>ワッフルチャート</li>
+        <li>箱ひげ図</li>
+        <li>バイオリンプロット</li>
+        <li>スウォームプロット</li>
         <li>円グラフ</li>
         <li>ドーナツグラフ</li>
       </ul>
@@ -21,6 +24,7 @@ export const Top = () => {
         <li>
           <Link to="/density-plot">密度プロット</Link>
         </li>
+        <li>Hexbinプロット</li>
         <li>ヒートマップ</li>
       </ul>
       <h2>高次元データ</h2>
@@ -39,7 +43,9 @@ export const Top = () => {
       </ul>
       <h2>階層データ</h2>
       <ul>
-        <li>ツリーマップ</li>
+        <li>
+          <Link to="/treemap">ツリーマップ</Link>
+        </li>
         <li>サークルパッキング</li>
         <li>サンバースト図</li>
       </ul>
