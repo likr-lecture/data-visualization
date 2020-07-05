@@ -50,7 +50,9 @@ export const Top = () => {
         <li>
           <Link to="/treemap">ツリーマップ</Link>
         </li>
-        <li>サークルパッキング</li>
+        <li>
+          <Link to="/circle-packing">サークルパッキング</Link>
+        </li>
         <li>サンバースト図</li>
       </ul>
       <h2>関係データ</h2>

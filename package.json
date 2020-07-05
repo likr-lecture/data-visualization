@@ -2,12 +2,9 @@
   "name": "data-visualization",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "build": "honkit build",
-    "build-app": "react-scripts build",
-    "start": "honkit serve",
-    "start-app": "react-scripts start"
+    "build": "react-scripts build",
+    "start": "react-scripts start"
   },
   "repository": {
     "type": "git",
@@ -20,7 +17,6 @@
     "url": "https://github.com/likr-lecture/data-visualization/issues"
   },
   "devDependencies": {
-    "honkit": "^3.5.0",
     "prettier": "^2.0.5",
     "react-scripts": "^3.4.1"
   },

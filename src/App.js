@@ -5,6 +5,7 @@ import { createBrowserHistory } from "history";
 import { Top } from "./pages/Top";
 
 import { BarChartPage } from "./pages/BarChart";
+import { CirclePackingPage } from "./pages/CirclePacking";
 import { ChordDiagramPage } from "./pages/ChordDiagram";
 import { ChoroplethMapPage } from "./pages/ChoroplethMap";
 import { DensityPlotPage } from "./pages/DensityPlot";
@@ -32,6 +33,7 @@ const App = () => {
           <Switch>
             <Route path="/" component={Top} exact />
             <Route path="/bar-chart" component={BarChartPage} />
+            <Route path="/circle-packing" component={CirclePackingPage} />
             <Route path="/chord-diagram" component={ChordDiagramPage} />
             <Route path="/choropleth-map" component={ChoroplethMapPage} />
             <Route path="/density-plot" component={DensityPlotPage} />
