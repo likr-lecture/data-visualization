@@ -8,8 +8,10 @@ import { BarChartPage } from "./pages/BarChart";
 import { ChordDiagramPage } from "./pages/ChordDiagram";
 import { ChoroplethMapPage } from "./pages/ChoroplethMap";
 import { DensityPlotPage } from "./pages/DensityPlot";
+import { DonutChartPage } from "./pages/DonutChart";
 import { LineChartPage } from "./pages/LineChart";
 import { NodeLinkDiagramPage } from "./pages/NodeLinkDiagram";
+import { PieChartPage } from "./pages/PieChart";
 import { ScatterPlotPage } from "./pages/ScatterPlot";
 import { TreemapPage } from "./pages/Treemap";
 
@@ -33,8 +35,10 @@ const App = () => {
             <Route path="/chord-diagram" component={ChordDiagramPage} />
             <Route path="/choropleth-map" component={ChoroplethMapPage} />
             <Route path="/density-plot" component={DensityPlotPage} />
+            <Route path="/donut-chart" component={DonutChartPage} />
             <Route path="/line-chart" component={LineChartPage} />
             <Route path="/node-link-diagram" component={NodeLinkDiagramPage} />
+            <Route path="/pie-chart" component={PieChartPage} />
             <Route path="/scatter-plot" component={ScatterPlotPage} />
             <Route path="/treemap" component={TreemapPage} />
           </Switch>

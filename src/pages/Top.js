@@ -13,8 +13,12 @@ export const Top = () => {
         <li>箱ひげ図</li>
         <li>バイオリンプロット</li>
         <li>スウォームプロット</li>
-        <li>円グラフ</li>
-        <li>ドーナツグラフ</li>
+        <li>
+          <Link to="/pie-chart">円グラフ</Link>
+        </li>
+        <li>
+          <Link to="/donut-chart">ドーナツグラフ</Link>
+        </li>
       </ul>
       <h2>2次元データ</h2>
       <ul>
@@ -62,7 +66,9 @@ export const Top = () => {
       </ul>
       <h2>地理データ</h2>
       <ul>
-        <Link to="/choropleth-map">コロプレスマップ</Link>
+        <li>
+          <Link to="/choropleth-map">コロプレスマップ</Link>
+        </li>
       </ul>
     </div>
   );
