@@ -1,0 +1,8597 @@
+[
+  {
+    "area": "01100_札幌市",
+    "established": 18,
+    "closed": 33
+  },
+  {
+    "area": "01202_函館市",
+    "established": 11,
+    "closed": 50
+  },
+  {
+    "area": "01203_小樽市",
+    "established": 9,
+    "closed": 27
+  },
+  {
+    "area": "01204_旭川市",
+    "established": 32,
+    "closed": 23
+  },
+  {
+    "area": "01205_室蘭市",
+    "established": 6,
+    "closed": 26
+  },
+  {
+    "area": "01206_釧路市",
+    "established": 4,
+    "closed": 24
+  },
+  {
+    "area": "01207_帯広市",
+    "established": 13,
+    "closed": 14
+  },
+  {
+    "area": "01208_北見市",
+    "established": 5,
+    "closed": 14
+  },
+  {
+    "area": "01209_夕張市",
+    "established": 1,
+    "closed": 8
+  },
+  {
+    "area": "01210_岩見沢市",
+    "established": 7,
+    "closed": 6
+  },
+  {
+    "area": "01211_網走市",
+    "established": 3,
+    "closed": 10
+  },
+  {
+    "area": "01212_留萌市",
+    "established": 4,
+    "closed": 5
+  },
+  {
+    "area": "01213_苫小牧市",
+    "established": 5,
+    "closed": 7
+  },
+  {
+    "area": "01214_稚内市",
+    "established": 6,
+    "closed": 8
+  },
+  {
+    "area": "01215_美唄市",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "01216_芦別市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01217_江別市",
+    "established": 5,
+    "closed": 20
+  },
+  {
+    "area": "01218_赤平市",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "01219_紋別市",
+    "established": 5,
+    "closed": 13
+  },
+  {
+    "area": "01220_士別市",
+    "established": 4,
+    "closed": 8
+  },
+  {
+    "area": "01221_名寄市",
+    "established": 4,
+    "closed": 6
+  },
+  {
+    "area": "01222_三笠市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01223_根室市",
+    "established": 5,
+    "closed": 4
+  },
+  {
+    "area": "01224_千歳市",
+    "established": 7,
+    "closed": 6
+  },
+  {
+    "area": "01225_滝川市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01226_砂川市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "01227_歌志内市",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "01228_深川市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01229_富良野市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01230_登別市",
+    "established": 6,
+    "closed": 1
+  },
+  {
+    "area": "01231_恵庭市",
+    "established": 7,
+    "closed": 27
+  },
+  {
+    "area": "01233_伊達市",
+    "established": 3,
+    "closed": 26
+  },
+  {
+    "area": "01234_北広島市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01235_石狩市",
+    "established": 0,
+    "closed": 8
+  },
+  {
+    "area": "01236_北斗市",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "01303_当別町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "01304_新篠津村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "01331_松前町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01332_福島町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "01333_知内町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01334_木古内町",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "01337_七飯町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "01343_鹿部町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01345_森町",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "01346_八雲町",
+    "established": 7,
+    "closed": 8
+  },
+  {
+    "area": "01347_長万部町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01361_江差町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "01362_上ノ国町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01363_厚沢部町",
+    "established": 3,
+    "closed": 5
+  },
+  {
+    "area": "01364_乙部町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01367_奥尻町",
+    "established": 4,
+    "closed": 5
+  },
+  {
+    "area": "01370_今金町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01371_せたな町",
+    "established": 3,
+    "closed": 11
+  },
+  {
+    "area": "01391_島牧村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01392_寿都町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01393_黒松内町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "01394_蘭越町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01395_ニセコ町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01396_真狩村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01397_留寿都村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01398_喜茂別町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "01399_京極町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01400_倶知安町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "01401_共和町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01402_岩内町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "01403_泊村",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01404_神恵内村",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "01405_積丹町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01406_古平町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "01407_仁木町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01408_余市町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01409_赤井川村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01423_南幌町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01424_奈井江町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01425_上砂川町",
+    "established": 4,
+    "closed": 2
+  },
+  {
+    "area": "01427_由仁町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "01428_長沼町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "01429_栗山町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01430_月形町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01431_浦臼町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "01432_新十津川町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "01433_妹背牛町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01434_秩父別町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "01436_雨竜町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01437_北竜町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01438_沼田町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "01452_鷹栖町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "01453_東神楽町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "01454_当麻町",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "01455_比布町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01456_愛別町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "01457_上川町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "01458_東川町",
+    "established": 4,
+    "closed": 3
+  },
+  {
+    "area": "01459_美瑛町",
+    "established": 4,
+    "closed": 0
+  },
+  {
+    "area": "01460_上富良野町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01461_中富良野町",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "01462_南富良野町",
+    "established": 4,
+    "closed": 6
+  },
+  {
+    "area": "01463_占冠村",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "01464_和寒町",
+    "established": 1,
+    "closed": 16
+  },
+  {
+    "area": "01465_剣淵町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01468_下川町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "01469_美深町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01470_音威子府村",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01471_中川町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01472_幌加内町",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "01481_増毛町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "01482_小平町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01483_苫前町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "01484_羽幌町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "01485_初山別村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01486_遠別町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01487_天塩町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "01511_猿払村",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "01512_浜頓別町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01513_中頓別町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01514_枝幸町",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "01516_豊富町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01517_礼文町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01518_利尻町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01519_利尻富士町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01520_幌延町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "01543_美幌町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "01544_津別町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01545_斜里町",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "01546_清里町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01547_小清水町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01549_訓子府町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "01550_置戸町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01552_佐呂間町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01555_遠軽町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01559_湧別町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01560_滝上町",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "01561_興部町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01562_西興部村",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "01563_雄武町",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "01564_大空町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01571_豊浦町",
+    "established": 0,
+    "closed": 9
+  },
+  {
+    "area": "01575_壮瞥町",
+    "established": 2,
+    "closed": 11
+  },
+  {
+    "area": "01578_白老町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "01581_厚真町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01584_洞爺湖町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01585_安平町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "01586_むかわ町",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "01601_日高町",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "01602_平取町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "01604_新冠町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01607_浦河町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "01608_様似町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01609_えりも町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01610_新ひだか町",
+    "established": 3,
+    "closed": 47
+  },
+  {
+    "area": "01631_音更町",
+    "established": 4,
+    "closed": 33
+  },
+  {
+    "area": "01632_士幌町",
+    "established": 1,
+    "closed": 12
+  },
+  {
+    "area": "01633_上士幌町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01634_鹿追町",
+    "established": 4,
+    "closed": 1
+  },
+  {
+    "area": "01635_新得町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01636_清水町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "01637_芽室町",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "01638_中札内村",
+    "established": 0,
+    "closed": 9
+  },
+  {
+    "area": "01639_更別村",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "01641_大樹町",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "01642_広尾町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01643_幕別町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "01644_池田町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01645_豊頃町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "01646_本別町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "01647_足寄町",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "01648_陸別町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01649_浦幌町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "01661_釧路町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01662_厚岸町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "01663_浜中町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "01664_標茶町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01665_弟子屈町",
+    "established": 1,
+    "closed": 9
+  },
+  {
+    "area": "01667_鶴居村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "01668_白糠町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "01691_別海町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "01692_中標津町",
+    "established": 2,
+    "closed": 12
+  },
+  {
+    "area": "01693_標津町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "01694_羅臼町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "02201_青森市",
+    "established": 4,
+    "closed": 9
+  },
+  {
+    "area": "02202_弘前市",
+    "established": 6,
+    "closed": 26
+  },
+  {
+    "area": "02203_八戸市",
+    "established": 10,
+    "closed": 18
+  },
+  {
+    "area": "02204_黒石市",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "02205_五所川原市",
+    "established": 5,
+    "closed": 9
+  },
+  {
+    "area": "02206_十和田市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "02207_三沢市",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "02208_むつ市",
+    "established": 4,
+    "closed": 6
+  },
+  {
+    "area": "02209_つがる市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "02210_平川市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "02301_平内町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "02303_今別町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "02304_蓬田村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "02307_外ヶ浜町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "02321_鰺ヶ沢町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "02323_深浦町",
+    "established": 4,
+    "closed": 4
+  },
+  {
+    "area": "02343_西目屋村",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "02361_藤崎町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "02362_大鰐町",
+    "established": 1,
+    "closed": 8
+  },
+  {
+    "area": "02367_田舎館村",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "02381_板柳町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "02384_鶴田町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "02387_中泊町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "02401_野辺地町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "02402_七戸町",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "02405_六戸町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "02406_横浜町",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "02408_東北町",
+    "established": 2,
+    "closed": 9
+  },
+  {
+    "area": "02411_六ヶ所村",
+    "established": 2,
+    "closed": 15
+  },
+  {
+    "area": "02412_おいらせ町",
+    "established": 3,
+    "closed": 9
+  },
+  {
+    "area": "02423_大間町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "02424_東通村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "02425_風間浦村",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "02426_佐井村",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "02441_三戸町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "02442_五戸町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "02443_田子町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "02445_南部町",
+    "established": 1,
+    "closed": 8
+  },
+  {
+    "area": "02446_階上町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "02450_新郷村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "03201_盛岡市",
+    "established": 6,
+    "closed": 20
+  },
+  {
+    "area": "03202_宮古市",
+    "established": 9,
+    "closed": 15
+  },
+  {
+    "area": "03203_大船渡市",
+    "established": 7,
+    "closed": 9
+  },
+  {
+    "area": "03205_花巻市",
+    "established": 2,
+    "closed": 42
+  },
+  {
+    "area": "03206_北上市",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "03207_久慈市",
+    "established": 0,
+    "closed": 31
+  },
+  {
+    "area": "03208_遠野市",
+    "established": 5,
+    "closed": 16
+  },
+  {
+    "area": "03209_一関市",
+    "established": 16,
+    "closed": 72
+  },
+  {
+    "area": "03210_陸前高田市",
+    "established": 9,
+    "closed": 6
+  },
+  {
+    "area": "03211_釜石市",
+    "established": 6,
+    "closed": 4
+  },
+  {
+    "area": "03213_二戸市",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "03214_八幡平市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "03215_奥州市",
+    "established": 7,
+    "closed": 45
+  },
+  {
+    "area": "03216_滝沢市",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "03301_雫石町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "03302_葛巻町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "03303_岩手町",
+    "established": 0,
+    "closed": 8
+  },
+  {
+    "area": "03321_紫波町",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "03322_矢巾町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "03366_西和賀町",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "03381_金ケ崎町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "03402_平泉町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "03441_住田町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "03461_大槌町",
+    "established": 6,
+    "closed": 4
+  },
+  {
+    "area": "03482_山田町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "03483_岩泉町",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "03484_田野畑村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "03485_普代村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "03501_軽米町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "03503_野田村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "03506_九戸村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "03507_洋野町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "03524_一戸町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "04100_仙台市",
+    "established": 25,
+    "closed": 55
+  },
+  {
+    "area": "04202_石巻市",
+    "established": 48,
+    "closed": 35
+  },
+  {
+    "area": "04203_塩竈市",
+    "established": 10,
+    "closed": 9
+  },
+  {
+    "area": "04205_気仙沼市",
+    "established": 8,
+    "closed": 29
+  },
+  {
+    "area": "04206_白石市",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "04207_名取市",
+    "established": 6,
+    "closed": 11
+  },
+  {
+    "area": "04208_角田市",
+    "established": 4,
+    "closed": 2
+  },
+  {
+    "area": "04209_多賀城市",
+    "established": 2,
+    "closed": 13
+  },
+  {
+    "area": "04211_岩沼市",
+    "established": 6,
+    "closed": 4
+  },
+  {
+    "area": "04212_登米市",
+    "established": 2,
+    "closed": 19
+  },
+  {
+    "area": "04213_栗原市",
+    "established": 6,
+    "closed": 27
+  },
+  {
+    "area": "04214_東松島市",
+    "established": 7,
+    "closed": 4
+  },
+  {
+    "area": "04215_大崎市",
+    "established": 3,
+    "closed": 16
+  },
+  {
+    "area": "04216_富谷市",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "04301_蔵王町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "04302_七ヶ宿町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "04321_大河原町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "04322_村田町",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "04323_柴田町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "04324_川崎町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "04341_丸森町",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "04361_亘理町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "04362_山元町",
+    "established": 5,
+    "closed": 4
+  },
+  {
+    "area": "04401_松島町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "04404_七ヶ浜町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "04406_利府町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "04421_大和町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "04422_大郷町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "04424_大衡村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "04444_色麻町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "04445_加美町",
+    "established": 8,
+    "closed": 26
+  },
+  {
+    "area": "04501_涌谷町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "04505_美里町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "04581_女川町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "04606_南三陸町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "05201_秋田市",
+    "established": 16,
+    "closed": 57
+  },
+  {
+    "area": "05202_能代市",
+    "established": 0,
+    "closed": 18
+  },
+  {
+    "area": "05203_横手市",
+    "established": 14,
+    "closed": 39
+  },
+  {
+    "area": "05204_大館市",
+    "established": 4,
+    "closed": 41
+  },
+  {
+    "area": "05206_男鹿市",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "05207_湯沢市",
+    "established": 3,
+    "closed": 61
+  },
+  {
+    "area": "05209_鹿角市",
+    "established": 5,
+    "closed": 7
+  },
+  {
+    "area": "05210_由利本荘市",
+    "established": 8,
+    "closed": 51
+  },
+  {
+    "area": "05211_潟上市",
+    "established": 8,
+    "closed": 12
+  },
+  {
+    "area": "05212_大仙市",
+    "established": 3,
+    "closed": 14
+  },
+  {
+    "area": "05213_北秋田市",
+    "established": 7,
+    "closed": 43
+  },
+  {
+    "area": "05214_にかほ市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "05215_仙北市",
+    "established": 7,
+    "closed": 15
+  },
+  {
+    "area": "05303_小坂町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "05327_上小阿仁村",
+    "established": 7,
+    "closed": 2
+  },
+  {
+    "area": "05346_藤里町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "05348_三種町",
+    "established": 0,
+    "closed": 15
+  },
+  {
+    "area": "05349_八峰町",
+    "established": 3,
+    "closed": 8
+  },
+  {
+    "area": "05361_五城目町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "05363_八郎潟町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "05366_井川町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "05368_大潟村",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "05434_美郷町",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "05463_羽後町",
+    "established": 1,
+    "closed": 8
+  },
+  {
+    "area": "05464_東成瀬村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "06201_山形市",
+    "established": 7,
+    "closed": 15
+  },
+  {
+    "area": "06202_米沢市",
+    "established": 3,
+    "closed": 13
+  },
+  {
+    "area": "06203_鶴岡市",
+    "established": 10,
+    "closed": 43
+  },
+  {
+    "area": "06204_酒田市",
+    "established": 2,
+    "closed": 27
+  },
+  {
+    "area": "06205_新庄市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "06206_寒河江市",
+    "established": 2,
+    "closed": 31
+  },
+  {
+    "area": "06207_上山市",
+    "established": 2,
+    "closed": 13
+  },
+  {
+    "area": "06208_村山市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "06209_長井市",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "06210_天童市",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "06211_東根市",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "06212_尾花沢市",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "06213_南陽市",
+    "established": 4,
+    "closed": 9
+  },
+  {
+    "area": "06301_山辺町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "06302_中山町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "06321_河北町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "06322_西川町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "06323_朝日町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "06324_大江町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "06341_大石田町",
+    "established": 4,
+    "closed": 1
+  },
+  {
+    "area": "06361_金山町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "06362_最上町",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "06363_舟形町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "06364_真室川町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "06365_大蔵村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "06366_鮭川村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "06367_戸沢村",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "06381_高畠町",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "06382_川西町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "06401_小国町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "06402_白鷹町",
+    "established": 1,
+    "closed": 11
+  },
+  {
+    "area": "06403_飯豊町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "06426_三川町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "06428_庄内町",
+    "established": 6,
+    "closed": 4
+  },
+  {
+    "area": "06461_遊佐町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "07201_福島市",
+    "established": 6,
+    "closed": 38
+  },
+  {
+    "area": "07202_会津若松市",
+    "established": 4,
+    "closed": 14
+  },
+  {
+    "area": "07203_郡山市",
+    "established": 6,
+    "closed": 36
+  },
+  {
+    "area": "07204_いわき市",
+    "established": 10,
+    "closed": 29
+  },
+  {
+    "area": "07205_白河市",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "07207_須賀川市",
+    "established": 2,
+    "closed": 12
+  },
+  {
+    "area": "07208_喜多方市",
+    "established": 11,
+    "closed": 36
+  },
+  {
+    "area": "07209_相馬市",
+    "established": 4,
+    "closed": 6
+  },
+  {
+    "area": "07210_二本松市",
+    "established": 7,
+    "closed": 14
+  },
+  {
+    "area": "07211_田村市",
+    "established": 4,
+    "closed": 15
+  },
+  {
+    "area": "07212_南相馬市",
+    "established": 5,
+    "closed": 3
+  },
+  {
+    "area": "07213_伊達市",
+    "established": 2,
+    "closed": 31
+  },
+  {
+    "area": "07214_本宮市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "07301_桑折町",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "07303_国見町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "07308_川俣町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "07322_大玉村",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "07342_鏡石町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "07344_天栄村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "07362_下郷町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "07364_檜枝岐村",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "07367_只見町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "07368_南会津町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "07402_北塩原村",
+    "established": 0,
+    "closed": 12
+  },
+  {
+    "area": "07405_西会津町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "07407_磐梯町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "07408_猪苗代町",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "07421_会津坂下町",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "07422_湯川村",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "07423_柳津町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "07444_三島町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "07445_金山町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "07446_昭和村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "07447_会津美里町",
+    "established": 3,
+    "closed": 13
+  },
+  {
+    "area": "07461_西郷村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "07464_泉崎村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "07465_中島村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "07466_矢吹町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "07481_棚倉町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "07482_矢祭町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "07483_塙町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "07484_鮫川村",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "07501_石川町",
+    "established": 2,
+    "closed": 9
+  },
+  {
+    "area": "07502_玉川村",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "07503_平田村",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "07504_浅川町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "07505_古殿町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "07521_三春町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "07522_小野町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "07541_広野町",
+    "established": 4,
+    "closed": 3
+  },
+  {
+    "area": "07542_楢葉町",
+    "established": 6,
+    "closed": 4
+  },
+  {
+    "area": "07543_富岡町",
+    "established": 11,
+    "closed": 0
+  },
+  {
+    "area": "07544_川内村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "07545_大熊町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "07546_双葉町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "07547_浪江町",
+    "established": 6,
+    "closed": 0
+  },
+  {
+    "area": "07548_葛尾村",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "07561_新地町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "07564_飯舘村",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "08201_水戸市",
+    "established": 8,
+    "closed": 28
+  },
+  {
+    "area": "08202_日立市",
+    "established": 6,
+    "closed": 10
+  },
+  {
+    "area": "08203_土浦市",
+    "established": 4,
+    "closed": 15
+  },
+  {
+    "area": "08204_古河市",
+    "established": 3,
+    "closed": 24
+  },
+  {
+    "area": "08205_石岡市",
+    "established": 4,
+    "closed": 3
+  },
+  {
+    "area": "08207_結城市",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "08208_龍ケ崎市",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "08210_下妻市",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "08211_常総市",
+    "established": 6,
+    "closed": 11
+  },
+  {
+    "area": "08212_常陸太田市",
+    "established": 10,
+    "closed": 52
+  },
+  {
+    "area": "08214_高萩市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "08215_北茨城市",
+    "established": 6,
+    "closed": 10
+  },
+  {
+    "area": "08216_笠間市",
+    "established": 2,
+    "closed": 14
+  },
+  {
+    "area": "08217_取手市",
+    "established": 5,
+    "closed": 9
+  },
+  {
+    "area": "08219_牛久市",
+    "established": 14,
+    "closed": 12
+  },
+  {
+    "area": "08220_つくば市",
+    "established": 15,
+    "closed": 13
+  },
+  {
+    "area": "08221_ひたちなか市",
+    "established": 4,
+    "closed": 5
+  },
+  {
+    "area": "08222_鹿嶋市",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "08223_潮来市",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "08224_守谷市",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "08225_常陸大宮市",
+    "established": 0,
+    "closed": 22
+  },
+  {
+    "area": "08226_那珂市",
+    "established": 1,
+    "closed": 11
+  },
+  {
+    "area": "08227_筑西市",
+    "established": 12,
+    "closed": 8
+  },
+  {
+    "area": "08228_坂東市",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "08229_稲敷市",
+    "established": 17,
+    "closed": 20
+  },
+  {
+    "area": "08230_かすみがうら市",
+    "established": 15,
+    "closed": 16
+  },
+  {
+    "area": "08231_桜川市",
+    "established": 2,
+    "closed": 11
+  },
+  {
+    "area": "08232_神栖市",
+    "established": 26,
+    "closed": 15
+  },
+  {
+    "area": "08233_行方市",
+    "established": 4,
+    "closed": 8
+  },
+  {
+    "area": "08234_鉾田市",
+    "established": 3,
+    "closed": 12
+  },
+  {
+    "area": "08235_つくばみらい市",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "08236_小美玉市",
+    "established": 5,
+    "closed": 3
+  },
+  {
+    "area": "08302_茨城町",
+    "established": 6,
+    "closed": 12
+  },
+  {
+    "area": "08309_大洗町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "08310_城里町",
+    "established": 3,
+    "closed": 9
+  },
+  {
+    "area": "08341_東海村",
+    "established": 4,
+    "closed": 2
+  },
+  {
+    "area": "08364_大子町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "08442_美浦村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "08443_阿見町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "08447_河内町",
+    "established": 1,
+    "closed": 11
+  },
+  {
+    "area": "08521_八千代町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "08542_五霞町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "08546_境町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "08564_利根町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "09201_宇都宮市",
+    "established": 8,
+    "closed": 23
+  },
+  {
+    "area": "09202_足利市",
+    "established": 4,
+    "closed": 14
+  },
+  {
+    "area": "09203_栃木市",
+    "established": 11,
+    "closed": 44
+  },
+  {
+    "area": "09204_佐野市",
+    "established": 29,
+    "closed": 19
+  },
+  {
+    "area": "09205_鹿沼市",
+    "established": 5,
+    "closed": 14
+  },
+  {
+    "area": "09206_日光市",
+    "established": 0,
+    "closed": 13
+  },
+  {
+    "area": "09208_小山市",
+    "established": 4,
+    "closed": 14
+  },
+  {
+    "area": "09209_真岡市",
+    "established": 1,
+    "closed": 9
+  },
+  {
+    "area": "09210_大田原市",
+    "established": 3,
+    "closed": 29
+  },
+  {
+    "area": "09211_矢板市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "09213_那須塩原市",
+    "established": 8,
+    "closed": 20
+  },
+  {
+    "area": "09214_さくら市",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "09215_那須烏山市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "09216_下野市",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "09301_上三川町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "09342_益子町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "09343_茂木町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "09344_市貝町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "09345_芳賀町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "09361_壬生町",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "09364_野木町",
+    "established": 4,
+    "closed": 1
+  },
+  {
+    "area": "09384_塩谷町",
+    "established": 4,
+    "closed": 3
+  },
+  {
+    "area": "09386_高根沢町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "09407_那須町",
+    "established": 5,
+    "closed": 15
+  },
+  {
+    "area": "09411_那珂川町",
+    "established": 9,
+    "closed": 18
+  },
+  {
+    "area": "10201_前橋市",
+    "established": 3,
+    "closed": 20
+  },
+  {
+    "area": "10202_高崎市",
+    "established": 22,
+    "closed": 29
+  },
+  {
+    "area": "10203_桐生市",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "10204_伊勢崎市",
+    "established": 10,
+    "closed": 42
+  },
+  {
+    "area": "10205_太田市",
+    "established": 46,
+    "closed": 5
+  },
+  {
+    "area": "10206_沼田市",
+    "established": 3,
+    "closed": 9
+  },
+  {
+    "area": "10207_館林市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "10208_渋川市",
+    "established": 4,
+    "closed": 13
+  },
+  {
+    "area": "10209_藤岡市",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "10210_富岡市",
+    "established": 1,
+    "closed": 22
+  },
+  {
+    "area": "10211_安中市",
+    "established": 17,
+    "closed": 10
+  },
+  {
+    "area": "10212_みどり市",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "10344_榛東村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "10345_吉岡町",
+    "established": 4,
+    "closed": 0
+  },
+  {
+    "area": "10366_上野村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "10367_神流町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "10382_下仁田町",
+    "established": 1,
+    "closed": 9
+  },
+  {
+    "area": "10383_南牧村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "10384_甘楽町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "10421_中之条町",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "10424_長野原町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "10425_嬬恋村",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "10426_草津町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "10428_高山村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "10429_東吾妻町",
+    "established": 3,
+    "closed": 12
+  },
+  {
+    "area": "10443_片品村",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "10444_川場村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "10448_昭和村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "10449_みなかみ町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "10464_玉村町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "10521_板倉町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "10522_明和町",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "10523_千代田町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "10524_大泉町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "10525_邑楽町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "11100_さいたま市",
+    "established": 27,
+    "closed": 17
+  },
+  {
+    "area": "11201_川越市",
+    "established": 13,
+    "closed": 10
+  },
+  {
+    "area": "11202_熊谷市",
+    "established": 14,
+    "closed": 19
+  },
+  {
+    "area": "11203_川口市",
+    "established": 6,
+    "closed": 8
+  },
+  {
+    "area": "11206_行田市",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "11207_秩父市",
+    "established": 6,
+    "closed": 14
+  },
+  {
+    "area": "11208_所沢市",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "11209_飯能市",
+    "established": 0,
+    "closed": 8
+  },
+  {
+    "area": "11210_加須市",
+    "established": 4,
+    "closed": 8
+  },
+  {
+    "area": "11211_本庄市",
+    "established": 4,
+    "closed": 4
+  },
+  {
+    "area": "11212_東松山市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "11214_春日部市",
+    "established": 5,
+    "closed": 13
+  },
+  {
+    "area": "11215_狭山市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "11216_羽生市",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "11217_鴻巣市",
+    "established": 5,
+    "closed": 9
+  },
+  {
+    "area": "11218_深谷市",
+    "established": 7,
+    "closed": 7
+  },
+  {
+    "area": "11219_上尾市",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "11221_草加市",
+    "established": 8,
+    "closed": 7
+  },
+  {
+    "area": "11222_越谷市",
+    "established": 7,
+    "closed": 4
+  },
+  {
+    "area": "11223_蕨市",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "11224_戸田市",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "11225_入間市",
+    "established": 7,
+    "closed": 7
+  },
+  {
+    "area": "11227_朝霞市",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "11228_志木市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "11229_和光市",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "11230_新座市",
+    "established": 4,
+    "closed": 6
+  },
+  {
+    "area": "11231_桶川市",
+    "established": 7,
+    "closed": 5
+  },
+  {
+    "area": "11232_久喜市",
+    "established": 0,
+    "closed": 16
+  },
+  {
+    "area": "11233_北本市",
+    "established": 9,
+    "closed": 4
+  },
+  {
+    "area": "11234_八潮市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "11235_富士見市",
+    "established": 5,
+    "closed": 0
+  },
+  {
+    "area": "11237_三郷市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "11238_蓮田市",
+    "established": 4,
+    "closed": 2
+  },
+  {
+    "area": "11239_坂戸市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "11240_幸手市",
+    "established": 5,
+    "closed": 1
+  },
+  {
+    "area": "11241_鶴ヶ島市",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "11242_日高市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "11243_吉川市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "11245_ふじみ野市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "11246_白岡市",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "11301_伊奈町",
+    "established": 12,
+    "closed": 2
+  },
+  {
+    "area": "11324_三芳町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "11326_毛呂山町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "11327_越生町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "11341_滑川町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "11342_嵐山町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "11343_小川町",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "11346_川島町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "11347_吉見町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "11348_鳩山町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "11349_ときがわ町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "11361_横瀬町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "11362_皆野町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "11363_長瀞町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "11365_小鹿野町",
+    "established": 3,
+    "closed": 10
+  },
+  {
+    "area": "11369_東秩父村",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "11381_美里町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "11383_神川町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "11385_上里町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "11408_寄居町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "11442_宮代町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "11464_杉戸町",
+    "established": 2,
+    "closed": 11
+  },
+  {
+    "area": "11465_松伏町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "12100_千葉市",
+    "established": 11,
+    "closed": 76
+  },
+  {
+    "area": "12202_銚子市",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "12203_市川市",
+    "established": 5,
+    "closed": 24
+  },
+  {
+    "area": "12204_船橋市",
+    "established": 56,
+    "closed": 11
+  },
+  {
+    "area": "12205_館山市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "12206_木更津市",
+    "established": 5,
+    "closed": 9
+  },
+  {
+    "area": "12207_松戸市",
+    "established": 14,
+    "closed": 9
+  },
+  {
+    "area": "12208_野田市",
+    "established": 1,
+    "closed": 18
+  },
+  {
+    "area": "12210_茂原市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "12211_成田市",
+    "established": 14,
+    "closed": 16
+  },
+  {
+    "area": "12212_佐倉市",
+    "established": 6,
+    "closed": 2
+  },
+  {
+    "area": "12213_東金市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "12215_旭市",
+    "established": 1,
+    "closed": 10
+  },
+  {
+    "area": "12216_習志野市",
+    "established": 13,
+    "closed": 15
+  },
+  {
+    "area": "12217_柏市",
+    "established": 4,
+    "closed": 11
+  },
+  {
+    "area": "12218_勝浦市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "12219_市原市",
+    "established": 11,
+    "closed": 23
+  },
+  {
+    "area": "12220_流山市",
+    "established": 3,
+    "closed": 13
+  },
+  {
+    "area": "12221_八千代市",
+    "established": 6,
+    "closed": 11
+  },
+  {
+    "area": "12222_我孫子市",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "12223_鴨川市",
+    "established": 3,
+    "closed": 17
+  },
+  {
+    "area": "12224_鎌ケ谷市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "12225_君津市",
+    "established": 3,
+    "closed": 14
+  },
+  {
+    "area": "12226_富津市",
+    "established": 2,
+    "closed": 10
+  },
+  {
+    "area": "12227_浦安市",
+    "established": 4,
+    "closed": 10
+  },
+  {
+    "area": "12228_四街道市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "12229_袖ケ浦市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "12230_八街市",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "12231_印西市",
+    "established": 5,
+    "closed": 18
+  },
+  {
+    "area": "12232_白井市",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "12233_富里市",
+    "established": 6,
+    "closed": 4
+  },
+  {
+    "area": "12234_南房総市",
+    "established": 9,
+    "closed": 24
+  },
+  {
+    "area": "12235_匝瑳市",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "12236_香取市",
+    "established": 2,
+    "closed": 17
+  },
+  {
+    "area": "12237_山武市",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "12238_いすみ市",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "12239_大網白里市",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "12322_酒々井町",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "12329_栄町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "12342_神崎町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "12347_多古町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "12349_東庄町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "12403_九十九里町",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "12409_芝山町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "12410_横芝光町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "12421_一宮町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "12422_睦沢町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "12423_長生村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "12424_白子町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "12426_長柄町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "12427_長南町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "12441_大多喜町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "12443_御宿町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "12463_鋸南町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "13100_特別区部",
+    "established": 204,
+    "closed": 512
+  },
+  {
+    "area": "13201_八王子市",
+    "established": 4,
+    "closed": 9
+  },
+  {
+    "area": "13202_立川市",
+    "established": 3,
+    "closed": 8
+  },
+  {
+    "area": "13203_武蔵野市",
+    "established": 2,
+    "closed": 32
+  },
+  {
+    "area": "13204_三鷹市",
+    "established": 6,
+    "closed": 11
+  },
+  {
+    "area": "13205_青梅市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "13206_府中市",
+    "established": 6,
+    "closed": 6
+  },
+  {
+    "area": "13207_昭島市",
+    "established": 3,
+    "closed": 22
+  },
+  {
+    "area": "13208_調布市",
+    "established": 6,
+    "closed": 32
+  },
+  {
+    "area": "13209_町田市",
+    "established": 6,
+    "closed": 9
+  },
+  {
+    "area": "13210_小金井市",
+    "established": 0,
+    "closed": 8
+  },
+  {
+    "area": "13211_小平市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "13212_日野市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "13213_東村山市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "13214_国分寺市",
+    "established": 5,
+    "closed": 15
+  },
+  {
+    "area": "13215_国立市",
+    "established": 6,
+    "closed": 2
+  },
+  {
+    "area": "13218_福生市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "13219_狛江市",
+    "established": 4,
+    "closed": 3
+  },
+  {
+    "area": "13220_東大和市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "13221_清瀬市",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "13222_東久留米市",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "13223_武蔵村山市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "13224_多摩市",
+    "established": 0,
+    "closed": 15
+  },
+  {
+    "area": "13225_稲城市",
+    "established": 5,
+    "closed": 7
+  },
+  {
+    "area": "13227_羽村市",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "13228_あきる野市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "13229_西東京市",
+    "established": 5,
+    "closed": 12
+  },
+  {
+    "area": "13303_瑞穂町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "13305_日の出町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "13307_檜原村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "13308_奥多摩町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "13361_大島町",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "13362_利島村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "13363_新島村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "13364_神津島村",
+    "established": 5,
+    "closed": 2
+  },
+  {
+    "area": "13381_三宅村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "13382_御蔵島村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "13401_八丈町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "13402_青ヶ島村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "13421_小笠原村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "14100_横浜市",
+    "established": 22,
+    "closed": 73
+  },
+  {
+    "area": "14130_川崎市",
+    "established": 13,
+    "closed": 46
+  },
+  {
+    "area": "14150_相模原市",
+    "established": 15,
+    "closed": 19
+  },
+  {
+    "area": "14201_横須賀市",
+    "established": 3,
+    "closed": 15
+  },
+  {
+    "area": "14203_平塚市",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "14204_鎌倉市",
+    "established": 1,
+    "closed": 13
+  },
+  {
+    "area": "14205_藤沢市",
+    "established": 7,
+    "closed": 5
+  },
+  {
+    "area": "14206_小田原市",
+    "established": 1,
+    "closed": 21
+  },
+  {
+    "area": "14207_茅ヶ崎市",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "14208_逗子市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "14210_三浦市",
+    "established": 4,
+    "closed": 7
+  },
+  {
+    "area": "14211_秦野市",
+    "established": 12,
+    "closed": 14
+  },
+  {
+    "area": "14212_厚木市",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "14213_大和市",
+    "established": 1,
+    "closed": 10
+  },
+  {
+    "area": "14214_伊勢原市",
+    "established": 8,
+    "closed": 4
+  },
+  {
+    "area": "14215_海老名市",
+    "established": 5,
+    "closed": 7
+  },
+  {
+    "area": "14216_座間市",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "14217_南足柄市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "14218_綾瀬市",
+    "established": 3,
+    "closed": 9
+  },
+  {
+    "area": "14301_葉山町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "14321_寒川町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "14341_大磯町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "14342_二宮町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "14361_中井町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "14362_大井町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "14363_松田町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "14364_山北町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "14366_開成町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "14382_箱根町",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "14383_真鶴町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "14384_湯河原町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "14401_愛川町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "14402_清川村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "15100_新潟市",
+    "established": 9,
+    "closed": 40
+  },
+  {
+    "area": "15202_長岡市",
+    "established": 13,
+    "closed": 29
+  },
+  {
+    "area": "15204_三条市",
+    "established": 9,
+    "closed": 16
+  },
+  {
+    "area": "15205_柏崎市",
+    "established": 3,
+    "closed": 19
+  },
+  {
+    "area": "15206_新発田市",
+    "established": 10,
+    "closed": 9
+  },
+  {
+    "area": "15208_小千谷市",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "15209_加茂市",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "15210_十日町市",
+    "established": 16,
+    "closed": 13
+  },
+  {
+    "area": "15211_見附市",
+    "established": 4,
+    "closed": 8
+  },
+  {
+    "area": "15212_村上市",
+    "established": 9,
+    "closed": 21
+  },
+  {
+    "area": "15213_燕市",
+    "established": 5,
+    "closed": 10
+  },
+  {
+    "area": "15216_糸魚川市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "15217_妙高市",
+    "established": 4,
+    "closed": 14
+  },
+  {
+    "area": "15218_五泉市",
+    "established": 4,
+    "closed": 7
+  },
+  {
+    "area": "15222_上越市",
+    "established": 40,
+    "closed": 31
+  },
+  {
+    "area": "15223_阿賀野市",
+    "established": 6,
+    "closed": 4
+  },
+  {
+    "area": "15224_佐渡市",
+    "established": 10,
+    "closed": 15
+  },
+  {
+    "area": "15225_魚沼市",
+    "established": 3,
+    "closed": 15
+  },
+  {
+    "area": "15226_南魚沼市",
+    "established": 5,
+    "closed": 13
+  },
+  {
+    "area": "15227_胎内市",
+    "established": 4,
+    "closed": 7
+  },
+  {
+    "area": "15307_聖籠町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "15342_弥彦村",
+    "established": 4,
+    "closed": 1
+  },
+  {
+    "area": "15361_田上町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "15385_阿賀町",
+    "established": 0,
+    "closed": 8
+  },
+  {
+    "area": "15405_出雲崎町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "15461_湯沢町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "15482_津南町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "15504_刈羽村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "15581_関川村",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "15586_粟島浦村",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "16201_富山市",
+    "established": 20,
+    "closed": 33
+  },
+  {
+    "area": "16202_高岡市",
+    "established": 8,
+    "closed": 19
+  },
+  {
+    "area": "16204_魚津市",
+    "established": 5,
+    "closed": 16
+  },
+  {
+    "area": "16205_氷見市",
+    "established": 4,
+    "closed": 3
+  },
+  {
+    "area": "16206_滑川市",
+    "established": 4,
+    "closed": 1
+  },
+  {
+    "area": "16207_黒部市",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "16208_砺波市",
+    "established": 10,
+    "closed": 14
+  },
+  {
+    "area": "16209_小矢部市",
+    "established": 4,
+    "closed": 4
+  },
+  {
+    "area": "16210_南砺市",
+    "established": 10,
+    "closed": 47
+  },
+  {
+    "area": "16211_射水市",
+    "established": 8,
+    "closed": 29
+  },
+  {
+    "area": "16321_舟橋村",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "16322_上市町",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "16323_立山町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "16342_入善町",
+    "established": 4,
+    "closed": 10
+  },
+  {
+    "area": "16343_朝日町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "17201_金沢市",
+    "established": 5,
+    "closed": 29
+  },
+  {
+    "area": "17202_七尾市",
+    "established": 3,
+    "closed": 54
+  },
+  {
+    "area": "17203_小松市",
+    "established": 4,
+    "closed": 16
+  },
+  {
+    "area": "17204_輪島市",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "17205_珠洲市",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "17206_加賀市",
+    "established": 5,
+    "closed": 14
+  },
+  {
+    "area": "17207_羽咋市",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "17209_かほく市",
+    "established": 7,
+    "closed": 8
+  },
+  {
+    "area": "17210_白山市",
+    "established": 5,
+    "closed": 13
+  },
+  {
+    "area": "17211_能美市",
+    "established": 6,
+    "closed": 13
+  },
+  {
+    "area": "17212_野々市市",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "17324_川北町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "17361_津幡町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "17365_内灘町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "17384_志賀町",
+    "established": 1,
+    "closed": 10
+  },
+  {
+    "area": "17386_宝達志水町",
+    "established": 1,
+    "closed": 11
+  },
+  {
+    "area": "17407_中能登町",
+    "established": 2,
+    "closed": 13
+  },
+  {
+    "area": "17461_穴水町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "17463_能登町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "18201_福井市",
+    "established": 20,
+    "closed": 41
+  },
+  {
+    "area": "18202_敦賀市",
+    "established": 5,
+    "closed": 10
+  },
+  {
+    "area": "18204_小浜市",
+    "established": 6,
+    "closed": 14
+  },
+  {
+    "area": "18205_大野市",
+    "established": 4,
+    "closed": 9
+  },
+  {
+    "area": "18206_勝山市",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "18207_鯖江市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "18208_あわら市",
+    "established": 4,
+    "closed": 10
+  },
+  {
+    "area": "18209_越前市",
+    "established": 5,
+    "closed": 14
+  },
+  {
+    "area": "18210_坂井市",
+    "established": 7,
+    "closed": 6
+  },
+  {
+    "area": "18322_永平寺町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "18382_池田町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "18404_南越前町",
+    "established": 1,
+    "closed": 20
+  },
+  {
+    "area": "18423_越前町",
+    "established": 3,
+    "closed": 14
+  },
+  {
+    "area": "18442_美浜町",
+    "established": 7,
+    "closed": 7
+  },
+  {
+    "area": "18481_高浜町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "18483_おおい町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "18501_若狭町",
+    "established": 8,
+    "closed": 3
+  },
+  {
+    "area": "19201_甲府市",
+    "established": 7,
+    "closed": 11
+  },
+  {
+    "area": "19202_富士吉田市",
+    "established": 4,
+    "closed": 1
+  },
+  {
+    "area": "19204_都留市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "19205_山梨市",
+    "established": 6,
+    "closed": 11
+  },
+  {
+    "area": "19206_大月市",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "19207_韮崎市",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "19208_南アルプス市",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "19209_北杜市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "19210_甲斐市",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "19211_笛吹市",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "19212_上野原市",
+    "established": 4,
+    "closed": 11
+  },
+  {
+    "area": "19213_甲州市",
+    "established": 8,
+    "closed": 11
+  },
+  {
+    "area": "19214_中央市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "19346_市川三郷町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "19364_早川町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "19365_身延町",
+    "established": 5,
+    "closed": 12
+  },
+  {
+    "area": "19366_南部町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "19368_富士川町",
+    "established": 14,
+    "closed": 3
+  },
+  {
+    "area": "19384_昭和町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "19422_道志村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "19423_西桂町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "19424_忍野村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "19425_山中湖村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "19429_鳴沢村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "19430_富士河口湖町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "19442_小菅村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "19443_丹波山村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20201_長野市",
+    "established": 21,
+    "closed": 45
+  },
+  {
+    "area": "20202_松本市",
+    "established": 8,
+    "closed": 16
+  },
+  {
+    "area": "20203_上田市",
+    "established": 4,
+    "closed": 9
+  },
+  {
+    "area": "20204_岡谷市",
+    "established": 5,
+    "closed": 5
+  },
+  {
+    "area": "20205_飯田市",
+    "established": 22,
+    "closed": 34
+  },
+  {
+    "area": "20206_諏訪市",
+    "established": 5,
+    "closed": 13
+  },
+  {
+    "area": "20207_須坂市",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "20208_小諸市",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "20209_伊那市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "20210_駒ヶ根市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "20211_中野市",
+    "established": 6,
+    "closed": 10
+  },
+  {
+    "area": "20212_大町市",
+    "established": 3,
+    "closed": 8
+  },
+  {
+    "area": "20213_飯山市",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "20214_茅野市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "20215_塩尻市",
+    "established": 4,
+    "closed": 9
+  },
+  {
+    "area": "20217_佐久市",
+    "established": 13,
+    "closed": 17
+  },
+  {
+    "area": "20218_千曲市",
+    "established": 3,
+    "closed": 9
+  },
+  {
+    "area": "20219_東御市",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "20220_安曇野市",
+    "established": 2,
+    "closed": 11
+  },
+  {
+    "area": "20303_小海町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "20304_川上村",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "20305_南牧村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20306_南相木村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20307_北相木村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20309_佐久穂町",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "20321_軽井沢町",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "20323_御代田町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "20324_立科町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20349_青木村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "20350_長和町",
+    "established": 6,
+    "closed": 9
+  },
+  {
+    "area": "20361_下諏訪町",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "20362_富士見町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20363_原村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20382_辰野町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "20383_箕輪町",
+    "established": 1,
+    "closed": 8
+  },
+  {
+    "area": "20384_飯島町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "20385_南箕輪村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20386_中川村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20388_宮田村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20402_松川町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "20403_高森町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "20404_阿南町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "20407_阿智村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "20409_平谷村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20410_根羽村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20411_下條村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20412_売木村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20413_天龍村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20414_泰阜村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20415_喬木村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "20416_豊丘村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20417_大鹿村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20422_上松町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "20423_南木曽町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20425_木祖村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "20429_王滝村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20430_大桑村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20432_木曽町",
+    "established": 5,
+    "closed": 5
+  },
+  {
+    "area": "20446_麻績村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20448_生坂村",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "20450_山形村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20451_朝日村",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "20452_筑北村",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "20481_池田町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "20482_松川村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "20485_白馬村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20486_小谷村",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "20521_坂城町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "20541_小布施町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20543_高山村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20561_山ノ内町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "20562_木島平村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20563_野沢温泉村",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "20583_信濃町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "20588_小川村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "20590_飯綱町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "20602_栄村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "21201_岐阜市",
+    "established": 30,
+    "closed": 13
+  },
+  {
+    "area": "21202_大垣市",
+    "established": 16,
+    "closed": 10
+  },
+  {
+    "area": "21203_高山市",
+    "established": 3,
+    "closed": 16
+  },
+  {
+    "area": "21204_多治見市",
+    "established": 6,
+    "closed": 10
+  },
+  {
+    "area": "21205_関市",
+    "established": 8,
+    "closed": 15
+  },
+  {
+    "area": "21206_中津川市",
+    "established": 3,
+    "closed": 5
+  },
+  {
+    "area": "21207_美濃市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "21208_瑞浪市",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "21209_羽島市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "21210_恵那市",
+    "established": 15,
+    "closed": 79
+  },
+  {
+    "area": "21211_美濃加茂市",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "21212_土岐市",
+    "established": 4,
+    "closed": 25
+  },
+  {
+    "area": "21213_各務原市",
+    "established": 8,
+    "closed": 3
+  },
+  {
+    "area": "21214_可児市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "21215_山県市",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "21216_瑞穂市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "21217_飛騨市",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "21218_本巣市",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "21219_郡上市",
+    "established": 6,
+    "closed": 2
+  },
+  {
+    "area": "21220_下呂市",
+    "established": 4,
+    "closed": 18
+  },
+  {
+    "area": "21221_海津市",
+    "established": 11,
+    "closed": 16
+  },
+  {
+    "area": "21302_岐南町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "21303_笠松町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "21341_養老町",
+    "established": 10,
+    "closed": 10
+  },
+  {
+    "area": "21361_垂井町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "21362_関ケ原町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "21381_神戸町",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "21382_輪之内町",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "21383_安八町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "21401_揖斐川町",
+    "established": 9,
+    "closed": 12
+  },
+  {
+    "area": "21403_大野町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "21404_池田町",
+    "established": 6,
+    "closed": 5
+  },
+  {
+    "area": "21421_北方町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "21501_坂祝町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "21502_富加町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "21503_川辺町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "21504_七宗町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "21505_八百津町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "21506_白川町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "21507_東白川村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "21521_御嵩町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "21604_白川村",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "22100_静岡市",
+    "established": 77,
+    "closed": 87
+  },
+  {
+    "area": "22130_浜松市",
+    "established": 11,
+    "closed": 50
+  },
+  {
+    "area": "22203_沼津市",
+    "established": 13,
+    "closed": 83
+  },
+  {
+    "area": "22205_熱海市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "22206_三島市",
+    "established": 16,
+    "closed": 6
+  },
+  {
+    "area": "22207_富士宮市",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "22208_伊東市",
+    "established": 10,
+    "closed": 24
+  },
+  {
+    "area": "22209_島田市",
+    "established": 10,
+    "closed": 24
+  },
+  {
+    "area": "22210_富士市",
+    "established": 10,
+    "closed": 8
+  },
+  {
+    "area": "22211_磐田市",
+    "established": 55,
+    "closed": 48
+  },
+  {
+    "area": "22212_焼津市",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "22213_掛川市",
+    "established": 2,
+    "closed": 12
+  },
+  {
+    "area": "22214_藤枝市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "22215_御殿場市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "22216_袋井市",
+    "established": 7,
+    "closed": 31
+  },
+  {
+    "area": "22219_下田市",
+    "established": 3,
+    "closed": 8
+  },
+  {
+    "area": "22220_裾野市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "22221_湖西市",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "22222_伊豆市",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "22223_御前崎市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "22224_菊川市",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "22225_伊豆の国市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "22226_牧之原市",
+    "established": 12,
+    "closed": 5
+  },
+  {
+    "area": "22301_東伊豆町",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "22302_河津町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "22304_南伊豆町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "22305_松崎町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "22306_西伊豆町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "22325_函南町",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "22341_清水町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "22342_長泉町",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "22344_小山町",
+    "established": 5,
+    "closed": 1
+  },
+  {
+    "area": "22424_吉田町",
+    "established": 10,
+    "closed": 1
+  },
+  {
+    "area": "22429_川根本町",
+    "established": 2,
+    "closed": 12
+  },
+  {
+    "area": "22461_森町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "23100_名古屋市",
+    "established": 23,
+    "closed": 99
+  },
+  {
+    "area": "23201_豊橋市",
+    "established": 29,
+    "closed": 77
+  },
+  {
+    "area": "23202_岡崎市",
+    "established": 15,
+    "closed": 18
+  },
+  {
+    "area": "23203_一宮市",
+    "established": 8,
+    "closed": 10
+  },
+  {
+    "area": "23204_瀬戸市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "23205_半田市",
+    "established": 3,
+    "closed": 11
+  },
+  {
+    "area": "23206_春日井市",
+    "established": 5,
+    "closed": 10
+  },
+  {
+    "area": "23207_豊川市",
+    "established": 8,
+    "closed": 3
+  },
+  {
+    "area": "23208_津島市",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "23209_碧南市",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "23210_刈谷市",
+    "established": 3,
+    "closed": 8
+  },
+  {
+    "area": "23211_豊田市",
+    "established": 5,
+    "closed": 41
+  },
+  {
+    "area": "23212_安城市",
+    "established": 9,
+    "closed": 32
+  },
+  {
+    "area": "23213_西尾市",
+    "established": 14,
+    "closed": 17
+  },
+  {
+    "area": "23214_蒲郡市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "23215_犬山市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "23216_常滑市",
+    "established": 4,
+    "closed": 2
+  },
+  {
+    "area": "23217_江南市",
+    "established": 4,
+    "closed": 2
+  },
+  {
+    "area": "23219_小牧市",
+    "established": 4,
+    "closed": 20
+  },
+  {
+    "area": "23220_稲沢市",
+    "established": 5,
+    "closed": 7
+  },
+  {
+    "area": "23221_新城市",
+    "established": 5,
+    "closed": 16
+  },
+  {
+    "area": "23222_東海市",
+    "established": 13,
+    "closed": 4
+  },
+  {
+    "area": "23223_大府市",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "23224_知多市",
+    "established": 9,
+    "closed": 6
+  },
+  {
+    "area": "23225_知立市",
+    "established": 5,
+    "closed": 3
+  },
+  {
+    "area": "23226_尾張旭市",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "23227_高浜市",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "23228_岩倉市",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "23229_豊明市",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "23230_日進市",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "23231_田原市",
+    "established": 5,
+    "closed": 18
+  },
+  {
+    "area": "23232_愛西市",
+    "established": 0,
+    "closed": 10
+  },
+  {
+    "area": "23233_清須市",
+    "established": 9,
+    "closed": 11
+  },
+  {
+    "area": "23234_北名古屋市",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "23235_弥富市",
+    "established": 4,
+    "closed": 4
+  },
+  {
+    "area": "23236_みよし市",
+    "established": 6,
+    "closed": 32
+  },
+  {
+    "area": "23237_あま市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "23238_長久手市",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "23302_東郷町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "23342_豊山町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "23361_大口町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "23362_扶桑町",
+    "established": 5,
+    "closed": 0
+  },
+  {
+    "area": "23424_大治町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "23425_蟹江町",
+    "established": 5,
+    "closed": 1
+  },
+  {
+    "area": "23427_飛島村",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "23441_阿久比町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "23442_東浦町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "23445_南知多町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "23446_美浜町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "23447_武豊町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "23501_幸田町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "23561_設楽町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "23562_東栄町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "23563_豊根村",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "24201_津市",
+    "established": 25,
+    "closed": 73
+  },
+  {
+    "area": "24202_四日市市",
+    "established": 8,
+    "closed": 19
+  },
+  {
+    "area": "24203_伊勢市",
+    "established": 6,
+    "closed": 29
+  },
+  {
+    "area": "24204_松阪市",
+    "established": 2,
+    "closed": 33
+  },
+  {
+    "area": "24205_桑名市",
+    "established": 6,
+    "closed": 25
+  },
+  {
+    "area": "24207_鈴鹿市",
+    "established": 3,
+    "closed": 10
+  },
+  {
+    "area": "24208_名張市",
+    "established": 1,
+    "closed": 13
+  },
+  {
+    "area": "24209_尾鷲市",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "24210_亀山市",
+    "established": 3,
+    "closed": 15
+  },
+  {
+    "area": "24211_鳥羽市",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "24212_熊野市",
+    "established": 5,
+    "closed": 7
+  },
+  {
+    "area": "24214_いなべ市",
+    "established": 5,
+    "closed": 13
+  },
+  {
+    "area": "24215_志摩市",
+    "established": 5,
+    "closed": 22
+  },
+  {
+    "area": "24216_伊賀市",
+    "established": 12,
+    "closed": 23
+  },
+  {
+    "area": "24303_木曽岬町",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "24324_東員町",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "24341_菰野町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "24343_朝日町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "24344_川越町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "24441_多気町",
+    "established": 3,
+    "closed": 5
+  },
+  {
+    "area": "24442_明和町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "24443_大台町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "24461_玉城町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "24470_度会町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "24471_大紀町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "24472_南伊勢町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "24543_紀北町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "24561_御浜町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "24562_紀宝町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "25201_大津市",
+    "established": 14,
+    "closed": 54
+  },
+  {
+    "area": "25202_彦根市",
+    "established": 4,
+    "closed": 24
+  },
+  {
+    "area": "25203_長浜市",
+    "established": 9,
+    "closed": 44
+  },
+  {
+    "area": "25204_近江八幡市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "25206_草津市",
+    "established": 5,
+    "closed": 32
+  },
+  {
+    "area": "25207_守山市",
+    "established": 0,
+    "closed": 10
+  },
+  {
+    "area": "25208_栗東市",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "25209_甲賀市",
+    "established": 2,
+    "closed": 42
+  },
+  {
+    "area": "25210_野洲市",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "25211_湖南市",
+    "established": 5,
+    "closed": 24
+  },
+  {
+    "area": "25212_高島市",
+    "established": 0,
+    "closed": 21
+  },
+  {
+    "area": "25213_東近江市",
+    "established": 18,
+    "closed": 32
+  },
+  {
+    "area": "25214_米原市",
+    "established": 4,
+    "closed": 12
+  },
+  {
+    "area": "25383_日野町",
+    "established": 4,
+    "closed": 3
+  },
+  {
+    "area": "25384_竜王町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "25425_愛荘町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "25441_豊郷町",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "25442_甲良町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "25443_多賀町",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "26100_京都市",
+    "established": 22,
+    "closed": 81
+  },
+  {
+    "area": "26201_福知山市",
+    "established": 5,
+    "closed": 10
+  },
+  {
+    "area": "26202_舞鶴市",
+    "established": 8,
+    "closed": 11
+  },
+  {
+    "area": "26203_綾部市",
+    "established": 7,
+    "closed": 3
+  },
+  {
+    "area": "26204_宇治市",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "26205_宮津市",
+    "established": 3,
+    "closed": 16
+  },
+  {
+    "area": "26206_亀岡市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "26207_城陽市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "26208_向日市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "26209_長岡京市",
+    "established": 0,
+    "closed": 13
+  },
+  {
+    "area": "26210_八幡市",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "26211_京田辺市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "26212_京丹後市",
+    "established": 15,
+    "closed": 61
+  },
+  {
+    "area": "26213_南丹市",
+    "established": 9,
+    "closed": 17
+  },
+  {
+    "area": "26214_木津川市",
+    "established": 12,
+    "closed": 5
+  },
+  {
+    "area": "26303_大山崎町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "26322_久御山町",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "26343_井手町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "26344_宇治田原町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "26364_笠置町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "26365_和束町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "26366_精華町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "26367_南山城村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "26407_京丹波町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "26463_伊根町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "26465_与謝野町",
+    "established": 6,
+    "closed": 10
+  },
+  {
+    "area": "27100_大阪市",
+    "established": 106,
+    "closed": 182
+  },
+  {
+    "area": "27140_堺市",
+    "established": 25,
+    "closed": 40
+  },
+  {
+    "area": "27202_岸和田市",
+    "established": 11,
+    "closed": 7
+  },
+  {
+    "area": "27203_豊中市",
+    "established": 34,
+    "closed": 44
+  },
+  {
+    "area": "27204_池田市",
+    "established": 4,
+    "closed": 12
+  },
+  {
+    "area": "27205_吹田市",
+    "established": 4,
+    "closed": 24
+  },
+  {
+    "area": "27206_泉大津市",
+    "established": 2,
+    "closed": 9
+  },
+  {
+    "area": "27207_高槻市",
+    "established": 5,
+    "closed": 10
+  },
+  {
+    "area": "27208_貝塚市",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "27209_守口市",
+    "established": 6,
+    "closed": 44
+  },
+  {
+    "area": "27210_枚方市",
+    "established": 16,
+    "closed": 31
+  },
+  {
+    "area": "27211_茨木市",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "27212_八尾市",
+    "established": 11,
+    "closed": 35
+  },
+  {
+    "area": "27213_泉佐野市",
+    "established": 13,
+    "closed": 21
+  },
+  {
+    "area": "27214_富田林市",
+    "established": 4,
+    "closed": 3
+  },
+  {
+    "area": "27215_寝屋川市",
+    "established": 3,
+    "closed": 11
+  },
+  {
+    "area": "27216_河内長野市",
+    "established": 2,
+    "closed": 10
+  },
+  {
+    "area": "27217_松原市",
+    "established": 3,
+    "closed": 25
+  },
+  {
+    "area": "27218_大東市",
+    "established": 2,
+    "closed": 11
+  },
+  {
+    "area": "27219_和泉市",
+    "established": 5,
+    "closed": 12
+  },
+  {
+    "area": "27220_箕面市",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "27221_柏原市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "27222_羽曳野市",
+    "established": 9,
+    "closed": 3
+  },
+  {
+    "area": "27223_門真市",
+    "established": 3,
+    "closed": 9
+  },
+  {
+    "area": "27224_摂津市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "27225_高石市",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "27226_藤井寺市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "27227_東大阪市",
+    "established": 16,
+    "closed": 93
+  },
+  {
+    "area": "27228_泉南市",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "27229_四條畷市",
+    "established": 3,
+    "closed": 10
+  },
+  {
+    "area": "27230_交野市",
+    "established": 5,
+    "closed": 10
+  },
+  {
+    "area": "27231_大阪狭山市",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "27232_阪南市",
+    "established": 5,
+    "closed": 3
+  },
+  {
+    "area": "27301_島本町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "27321_豊能町",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "27322_能勢町",
+    "established": 3,
+    "closed": 10
+  },
+  {
+    "area": "27341_忠岡町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "27361_熊取町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "27362_田尻町",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "27366_岬町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "27381_太子町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "27382_河南町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "27383_千早赤阪村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "28100_神戸市",
+    "established": 15,
+    "closed": 88
+  },
+  {
+    "area": "28201_姫路市",
+    "established": 20,
+    "closed": 40
+  },
+  {
+    "area": "28202_尼崎市",
+    "established": 19,
+    "closed": 48
+  },
+  {
+    "area": "28203_明石市",
+    "established": 10,
+    "closed": 10
+  },
+  {
+    "area": "28204_西宮市",
+    "established": 0,
+    "closed": 28
+  },
+  {
+    "area": "28205_洲本市",
+    "established": 9,
+    "closed": 12
+  },
+  {
+    "area": "28206_芦屋市",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "28207_伊丹市",
+    "established": 5,
+    "closed": 11
+  },
+  {
+    "area": "28208_相生市",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "28209_豊岡市",
+    "established": 9,
+    "closed": 10
+  },
+  {
+    "area": "28210_加古川市",
+    "established": 11,
+    "closed": 22
+  },
+  {
+    "area": "28212_赤穂市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "28213_西脇市",
+    "established": 6,
+    "closed": 8
+  },
+  {
+    "area": "28214_宝塚市",
+    "established": 2,
+    "closed": 10
+  },
+  {
+    "area": "28215_三木市",
+    "established": 9,
+    "closed": 9
+  },
+  {
+    "area": "28216_高砂市",
+    "established": 8,
+    "closed": 20
+  },
+  {
+    "area": "28217_川西市",
+    "established": 3,
+    "closed": 9
+  },
+  {
+    "area": "28218_小野市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "28219_三田市",
+    "established": 2,
+    "closed": 9
+  },
+  {
+    "area": "28220_加西市",
+    "established": 2,
+    "closed": 9
+  },
+  {
+    "area": "28221_丹波篠山市",
+    "established": 11,
+    "closed": 4
+  },
+  {
+    "area": "28222_養父市",
+    "established": 11,
+    "closed": 17
+  },
+  {
+    "area": "28223_丹波市",
+    "established": 1,
+    "closed": 27
+  },
+  {
+    "area": "28224_南あわじ市",
+    "established": 17,
+    "closed": 22
+  },
+  {
+    "area": "28225_朝来市",
+    "established": 4,
+    "closed": 16
+  },
+  {
+    "area": "28226_淡路市",
+    "established": 5,
+    "closed": 23
+  },
+  {
+    "area": "28227_宍粟市",
+    "established": 5,
+    "closed": 17
+  },
+  {
+    "area": "28228_加東市",
+    "established": 3,
+    "closed": 10
+  },
+  {
+    "area": "28229_たつの市",
+    "established": 18,
+    "closed": 33
+  },
+  {
+    "area": "28301_猪名川町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "28365_多可町",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "28381_稲美町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "28382_播磨町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "28442_市川町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "28443_福崎町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "28446_神河町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "28464_太子町",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "28481_上郡町",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "28501_佐用町",
+    "established": 2,
+    "closed": 10
+  },
+  {
+    "area": "28585_香美町",
+    "established": 7,
+    "closed": 2
+  },
+  {
+    "area": "28586_新温泉町",
+    "established": 5,
+    "closed": 3
+  },
+  {
+    "area": "29201_奈良市",
+    "established": 27,
+    "closed": 43
+  },
+  {
+    "area": "29202_大和高田市",
+    "established": 5,
+    "closed": 3
+  },
+  {
+    "area": "29203_大和郡山市",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "29204_天理市",
+    "established": 5,
+    "closed": 2
+  },
+  {
+    "area": "29205_橿原市",
+    "established": 21,
+    "closed": 10
+  },
+  {
+    "area": "29206_桜井市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "29207_五條市",
+    "established": 5,
+    "closed": 5
+  },
+  {
+    "area": "29208_御所市",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "29209_生駒市",
+    "established": 6,
+    "closed": 25
+  },
+  {
+    "area": "29210_香芝市",
+    "established": 0,
+    "closed": 19
+  },
+  {
+    "area": "29211_葛城市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "29212_宇陀市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "29322_山添村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "29342_平群町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "29343_三郷町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "29344_斑鳩町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "29345_安堵町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "29361_川西町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "29362_三宅町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "29363_田原本町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "29385_曽爾村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "29386_御杖村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "29401_高取町",
+    "established": 5,
+    "closed": 0
+  },
+  {
+    "area": "29402_明日香村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "29424_上牧町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "29425_王寺町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "29426_広陵町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "29427_河合町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "29441_吉野町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "29442_大淀町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "29443_下市町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "29444_黒滝村",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "29446_天川村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "29447_野迫川村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "29449_十津川村",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "29450_下北山村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "29451_上北山村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "29452_川上村",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "29453_東吉野村",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "30201_和歌山市",
+    "established": 20,
+    "closed": 31
+  },
+  {
+    "area": "30202_海南市",
+    "established": 3,
+    "closed": 12
+  },
+  {
+    "area": "30203_橋本市",
+    "established": 3,
+    "closed": 15
+  },
+  {
+    "area": "30204_有田市",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "30205_御坊市",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "30206_田辺市",
+    "established": 23,
+    "closed": 10
+  },
+  {
+    "area": "30207_新宮市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "30208_紀の川市",
+    "established": 6,
+    "closed": 12
+  },
+  {
+    "area": "30209_岩出市",
+    "established": 5,
+    "closed": 8
+  },
+  {
+    "area": "30304_紀美野町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "30341_かつらぎ町",
+    "established": 2,
+    "closed": 14
+  },
+  {
+    "area": "30343_九度山町",
+    "established": 6,
+    "closed": 1
+  },
+  {
+    "area": "30344_高野町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "30361_湯浅町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "30362_広川町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "30366_有田川町",
+    "established": 4,
+    "closed": 15
+  },
+  {
+    "area": "30381_美浜町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "30382_日高町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "30383_由良町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "30390_印南町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "30391_みなべ町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "30392_日高川町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "30401_白浜町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "30404_上富田町",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "30406_すさみ町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "30421_那智勝浦町",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "30422_太地町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "30424_古座川町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "30427_北山村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "30428_串本町",
+    "established": 8,
+    "closed": 11
+  },
+  {
+    "area": "31201_鳥取市",
+    "established": 10,
+    "closed": 36
+  },
+  {
+    "area": "31202_米子市",
+    "established": 6,
+    "closed": 11
+  },
+  {
+    "area": "31203_倉吉市",
+    "established": 4,
+    "closed": 32
+  },
+  {
+    "area": "31204_境港市",
+    "established": 5,
+    "closed": 4
+  },
+  {
+    "area": "31302_岩美町",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "31325_若桜町",
+    "established": 3,
+    "closed": 5
+  },
+  {
+    "area": "31328_智頭町",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "31329_八頭町",
+    "established": 1,
+    "closed": 21
+  },
+  {
+    "area": "31364_三朝町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "31370_湯梨浜町",
+    "established": 10,
+    "closed": 9
+  },
+  {
+    "area": "31371_琴浦町",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "31372_北栄町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "31384_日吉津村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "31386_大山町",
+    "established": 2,
+    "closed": 9
+  },
+  {
+    "area": "31389_南部町",
+    "established": 4,
+    "closed": 3
+  },
+  {
+    "area": "31390_伯耆町",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "31401_日南町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "31402_日野町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "31403_江府町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "32201_松江市",
+    "established": 18,
+    "closed": 71
+  },
+  {
+    "area": "32202_浜田市",
+    "established": 17,
+    "closed": 17
+  },
+  {
+    "area": "32203_出雲市",
+    "established": 9,
+    "closed": 33
+  },
+  {
+    "area": "32204_益田市",
+    "established": 2,
+    "closed": 15
+  },
+  {
+    "area": "32205_大田市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "32206_安来市",
+    "established": 16,
+    "closed": 20
+  },
+  {
+    "area": "32207_江津市",
+    "established": 15,
+    "closed": 24
+  },
+  {
+    "area": "32209_雲南市",
+    "established": 2,
+    "closed": 12
+  },
+  {
+    "area": "32343_奥出雲町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "32386_飯南町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "32441_川本町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "32448_美郷町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "32449_邑南町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "32501_津和野町",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "32505_吉賀町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "32525_海士町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "32526_西ノ島町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "32527_知夫村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "32528_隠岐の島町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "33100_岡山市",
+    "established": 56,
+    "closed": 44
+  },
+  {
+    "area": "33202_倉敷市",
+    "established": 7,
+    "closed": 30
+  },
+  {
+    "area": "33203_津山市",
+    "established": 4,
+    "closed": 15
+  },
+  {
+    "area": "33204_玉野市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "33205_笠岡市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "33207_井原市",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "33208_総社市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "33209_高梁市",
+    "established": 7,
+    "closed": 18
+  },
+  {
+    "area": "33210_新見市",
+    "established": 3,
+    "closed": 12
+  },
+  {
+    "area": "33211_備前市",
+    "established": 10,
+    "closed": 17
+  },
+  {
+    "area": "33212_瀬戸内市",
+    "established": 5,
+    "closed": 9
+  },
+  {
+    "area": "33213_赤磐市",
+    "established": 5,
+    "closed": 8
+  },
+  {
+    "area": "33214_真庭市",
+    "established": 8,
+    "closed": 32
+  },
+  {
+    "area": "33215_美作市",
+    "established": 10,
+    "closed": 7
+  },
+  {
+    "area": "33216_浅口市",
+    "established": 4,
+    "closed": 6
+  },
+  {
+    "area": "33346_和気町",
+    "established": 1,
+    "closed": 11
+  },
+  {
+    "area": "33423_早島町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "33445_里庄町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "33461_矢掛町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "33586_新庄村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "33606_鏡野町",
+    "established": 5,
+    "closed": 8
+  },
+  {
+    "area": "33622_勝央町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "33623_奈義町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "33643_西粟倉村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "33663_久米南町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "33666_美咲町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "33681_吉備中央町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "34100_広島市",
+    "established": 9,
+    "closed": 123
+  },
+  {
+    "area": "34202_呉市",
+    "established": 7,
+    "closed": 22
+  },
+  {
+    "area": "34203_竹原市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "34204_三原市",
+    "established": 21,
+    "closed": 21
+  },
+  {
+    "area": "34205_尾道市",
+    "established": 4,
+    "closed": 25
+  },
+  {
+    "area": "34207_福山市",
+    "established": 8,
+    "closed": 29
+  },
+  {
+    "area": "34208_府中市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "34209_三次市",
+    "established": 21,
+    "closed": 11
+  },
+  {
+    "area": "34210_庄原市",
+    "established": 0,
+    "closed": 8
+  },
+  {
+    "area": "34211_大竹市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "34212_東広島市",
+    "established": 27,
+    "closed": 41
+  },
+  {
+    "area": "34213_廿日市市",
+    "established": 6,
+    "closed": 8
+  },
+  {
+    "area": "34214_安芸高田市",
+    "established": 3,
+    "closed": 12
+  },
+  {
+    "area": "34215_江田島市",
+    "established": 7,
+    "closed": 16
+  },
+  {
+    "area": "34302_府中町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "34304_海田町",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "34307_熊野町",
+    "established": 3,
+    "closed": 2
+  },
+  {
+    "area": "34309_坂町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "34368_安芸太田町",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "34369_北広島町",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "34431_大崎上島町",
+    "established": 6,
+    "closed": 2
+  },
+  {
+    "area": "34462_世羅町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "34545_神石高原町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "35201_下関市",
+    "established": 19,
+    "closed": 55
+  },
+  {
+    "area": "35202_宇部市",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "35203_山口市",
+    "established": 5,
+    "closed": 13
+  },
+  {
+    "area": "35204_萩市",
+    "established": 15,
+    "closed": 29
+  },
+  {
+    "area": "35206_防府市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "35207_下松市",
+    "established": 6,
+    "closed": 6
+  },
+  {
+    "area": "35208_岩国市",
+    "established": 11,
+    "closed": 28
+  },
+  {
+    "area": "35210_光市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "35211_長門市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "35212_柳井市",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "35213_美祢市",
+    "established": 6,
+    "closed": 21
+  },
+  {
+    "area": "35215_周南市",
+    "established": 12,
+    "closed": 28
+  },
+  {
+    "area": "35216_山陽小野田市",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "35305_周防大島町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "35321_和木町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "35341_上関町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "35343_田布施町",
+    "established": 6,
+    "closed": 2
+  },
+  {
+    "area": "35344_平生町",
+    "established": 6,
+    "closed": 5
+  },
+  {
+    "area": "35502_阿武町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "36201_徳島市",
+    "established": 4,
+    "closed": 31
+  },
+  {
+    "area": "36202_鳴門市",
+    "established": 3,
+    "closed": 14
+  },
+  {
+    "area": "36203_小松島市",
+    "established": 7,
+    "closed": 17
+  },
+  {
+    "area": "36204_阿南市",
+    "established": 3,
+    "closed": 19
+  },
+  {
+    "area": "36205_吉野川市",
+    "established": 5,
+    "closed": 26
+  },
+  {
+    "area": "36206_阿波市",
+    "established": 9,
+    "closed": 10
+  },
+  {
+    "area": "36207_美馬市",
+    "established": 6,
+    "closed": 26
+  },
+  {
+    "area": "36208_三好市",
+    "established": 5,
+    "closed": 33
+  },
+  {
+    "area": "36301_勝浦町",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "36302_上勝町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "36321_佐那河内村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "36341_石井町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "36342_神山町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "36368_那賀町",
+    "established": 6,
+    "closed": 13
+  },
+  {
+    "area": "36383_牟岐町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "36387_美波町",
+    "established": 9,
+    "closed": 10
+  },
+  {
+    "area": "36388_海陽町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "36401_松茂町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "36402_北島町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "36403_藍住町",
+    "established": 4,
+    "closed": 1
+  },
+  {
+    "area": "36404_板野町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "36405_上板町",
+    "established": 4,
+    "closed": 1
+  },
+  {
+    "area": "36468_つるぎ町",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "36489_東みよし町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "37201_高松市",
+    "established": 33,
+    "closed": 75
+  },
+  {
+    "area": "37202_丸亀市",
+    "established": 9,
+    "closed": 20
+  },
+  {
+    "area": "37203_坂出市",
+    "established": 5,
+    "closed": 10
+  },
+  {
+    "area": "37204_善通寺市",
+    "established": 5,
+    "closed": 6
+  },
+  {
+    "area": "37205_観音寺市",
+    "established": 4,
+    "closed": 12
+  },
+  {
+    "area": "37206_さぬき市",
+    "established": 9,
+    "closed": 22
+  },
+  {
+    "area": "37207_東かがわ市",
+    "established": 8,
+    "closed": 21
+  },
+  {
+    "area": "37208_三豊市",
+    "established": 7,
+    "closed": 20
+  },
+  {
+    "area": "37322_土庄町",
+    "established": 7,
+    "closed": 16
+  },
+  {
+    "area": "37324_小豆島町",
+    "established": 11,
+    "closed": 11
+  },
+  {
+    "area": "37341_三木町",
+    "established": 9,
+    "closed": 7
+  },
+  {
+    "area": "37364_直島町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "37386_宇多津町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "37387_綾川町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "37403_琴平町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "37404_多度津町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "37406_まんのう町",
+    "established": 5,
+    "closed": 9
+  },
+  {
+    "area": "38201_松山市",
+    "established": 11,
+    "closed": 18
+  },
+  {
+    "area": "38202_今治市",
+    "established": 19,
+    "closed": 77
+  },
+  {
+    "area": "38203_宇和島市",
+    "established": 11,
+    "closed": 27
+  },
+  {
+    "area": "38204_八幡浜市",
+    "established": 3,
+    "closed": 11
+  },
+  {
+    "area": "38205_新居浜市",
+    "established": 5,
+    "closed": 7
+  },
+  {
+    "area": "38206_西条市",
+    "established": 7,
+    "closed": 8
+  },
+  {
+    "area": "38207_大洲市",
+    "established": 0,
+    "closed": 10
+  },
+  {
+    "area": "38210_伊予市",
+    "established": 9,
+    "closed": 5
+  },
+  {
+    "area": "38213_四国中央市",
+    "established": 12,
+    "closed": 23
+  },
+  {
+    "area": "38214_西予市",
+    "established": 3,
+    "closed": 31
+  },
+  {
+    "area": "38215_東温市",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "38356_上島町",
+    "established": 4,
+    "closed": 2
+  },
+  {
+    "area": "38386_久万高原町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "38401_松前町",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "38402_砥部町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "38422_内子町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "38442_伊方町",
+    "established": 0,
+    "closed": 10
+  },
+  {
+    "area": "38484_松野町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "38488_鬼北町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "38506_愛南町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "39201_高知市",
+    "established": 12,
+    "closed": 19
+  },
+  {
+    "area": "39202_室戸市",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "39203_安芸市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "39204_南国市",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "39205_土佐市",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "39206_須崎市",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "39208_宿毛市",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "39209_土佐清水市",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "39210_四万十市",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "39211_香南市",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "39212_香美市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "39301_東洋町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "39302_奈半利町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "39303_田野町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "39304_安田町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "39305_北川村",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "39306_馬路村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "39307_芸西村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "39341_本山町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "39344_大豊町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "39363_土佐町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "39364_大川村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "39386_いの町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "39387_仁淀川町",
+    "established": 3,
+    "closed": 5
+  },
+  {
+    "area": "39401_中土佐町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "39402_佐川町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "39403_越知町",
+    "established": 6,
+    "closed": 4
+  },
+  {
+    "area": "39405_檮原町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "39410_日高村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "39411_津野町",
+    "established": 3,
+    "closed": 4
+  },
+  {
+    "area": "39412_四万十町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "39424_大月町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "39427_三原村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "39428_黒潮町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "40100_北九州市",
+    "established": 19,
+    "closed": 45
+  },
+  {
+    "area": "40130_福岡市",
+    "established": 24,
+    "closed": 47
+  },
+  {
+    "area": "40202_大牟田市",
+    "established": 5,
+    "closed": 5
+  },
+  {
+    "area": "40203_久留米市",
+    "established": 9,
+    "closed": 12
+  },
+  {
+    "area": "40204_直方市",
+    "established": 4,
+    "closed": 4
+  },
+  {
+    "area": "40205_飯塚市",
+    "established": 5,
+    "closed": 10
+  },
+  {
+    "area": "40206_田川市",
+    "established": 4,
+    "closed": 4
+  },
+  {
+    "area": "40207_柳川市",
+    "established": 7,
+    "closed": 3
+  },
+  {
+    "area": "40210_八女市",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "40211_筑後市",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "40212_大川市",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "40213_行橋市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "40214_豊前市",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "40215_中間市",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "40216_小郡市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "40217_筑紫野市",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "40218_春日市",
+    "established": 4,
+    "closed": 6
+  },
+  {
+    "area": "40219_大野城市",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "40220_宗像市",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "40221_太宰府市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "40223_古賀市",
+    "established": 4,
+    "closed": 4
+  },
+  {
+    "area": "40224_福津市",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "40225_うきは市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "40226_宮若市",
+    "established": 1,
+    "closed": 10
+  },
+  {
+    "area": "40227_嘉麻市",
+    "established": 8,
+    "closed": 8
+  },
+  {
+    "area": "40228_朝倉市",
+    "established": 6,
+    "closed": 4
+  },
+  {
+    "area": "40229_みやま市",
+    "established": 5,
+    "closed": 8
+  },
+  {
+    "area": "40230_糸島市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "40231_那珂川市",
+    "established": 7,
+    "closed": 3
+  },
+  {
+    "area": "40341_宇美町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "40342_篠栗町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "40343_志免町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "40344_須恵町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "40345_新宮町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "40348_久山町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "40349_粕屋町",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "40381_芦屋町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "40382_水巻町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "40383_岡垣町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "40384_遠賀町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "40401_小竹町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "40402_鞍手町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "40421_桂川町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "40447_筑前町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "40448_東峰村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "40503_大刀洗町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "40522_大木町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "40544_広川町",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "40601_香春町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "40602_添田町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "40604_糸田町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "40605_川崎町",
+    "established": 1,
+    "closed": 8
+  },
+  {
+    "area": "40608_大任町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "40609_赤村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "40610_福智町",
+    "established": 3,
+    "closed": 1
+  },
+  {
+    "area": "40621_苅田町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "40625_みやこ町",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "40642_吉富町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "40646_上毛町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "40647_築上町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "41201_佐賀市",
+    "established": 15,
+    "closed": 25
+  },
+  {
+    "area": "41202_唐津市",
+    "established": 5,
+    "closed": 25
+  },
+  {
+    "area": "41203_鳥栖市",
+    "established": 3,
+    "closed": 5
+  },
+  {
+    "area": "41204_多久市",
+    "established": 6,
+    "closed": 7
+  },
+  {
+    "area": "41205_伊万里市",
+    "established": 4,
+    "closed": 6
+  },
+  {
+    "area": "41206_武雄市",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "41207_鹿島市",
+    "established": 10,
+    "closed": 4
+  },
+  {
+    "area": "41208_小城市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "41209_嬉野市",
+    "established": 4,
+    "closed": 4
+  },
+  {
+    "area": "41210_神埼市",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "41327_吉野ヶ里町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "41341_基山町",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "41345_上峰町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "41346_みやき町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "41387_玄海町",
+    "established": 1,
+    "closed": 10
+  },
+  {
+    "area": "41401_有田町",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "41423_大町町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "41424_江北町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "41425_白石町",
+    "established": 5,
+    "closed": 7
+  },
+  {
+    "area": "41441_太良町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "42201_長崎市",
+    "established": 23,
+    "closed": 39
+  },
+  {
+    "area": "42202_佐世保市",
+    "established": 12,
+    "closed": 35
+  },
+  {
+    "area": "42203_島原市",
+    "established": 5,
+    "closed": 3
+  },
+  {
+    "area": "42204_諫早市",
+    "established": 5,
+    "closed": 7
+  },
+  {
+    "area": "42205_大村市",
+    "established": 7,
+    "closed": 6
+  },
+  {
+    "area": "42207_平戸市",
+    "established": 6,
+    "closed": 5
+  },
+  {
+    "area": "42208_松浦市",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "42209_対馬市",
+    "established": 6,
+    "closed": 16
+  },
+  {
+    "area": "42210_壱岐市",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "42211_五島市",
+    "established": 1,
+    "closed": 16
+  },
+  {
+    "area": "42212_西海市",
+    "established": 1,
+    "closed": 8
+  },
+  {
+    "area": "42213_雲仙市",
+    "established": 1,
+    "closed": 7
+  },
+  {
+    "area": "42214_南島原市",
+    "established": 1,
+    "closed": 11
+  },
+  {
+    "area": "42307_長与町",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "42308_時津町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "42321_東彼杵町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "42322_川棚町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "42323_波佐見町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "42383_小値賀町",
+    "established": 2,
+    "closed": 5
+  },
+  {
+    "area": "42391_佐々町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "42411_新上五島町",
+    "established": 4,
+    "closed": 26
+  },
+  {
+    "area": "43100_熊本市",
+    "established": 15,
+    "closed": 50
+  },
+  {
+    "area": "43202_八代市",
+    "established": 22,
+    "closed": 32
+  },
+  {
+    "area": "43203_人吉市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "43204_荒尾市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "43205_水俣市",
+    "established": 2,
+    "closed": 0
+  },
+  {
+    "area": "43206_玉名市",
+    "established": 2,
+    "closed": 22
+  },
+  {
+    "area": "43208_山鹿市",
+    "established": 17,
+    "closed": 27
+  },
+  {
+    "area": "43210_菊池市",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "43211_宇土市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "43212_上天草市",
+    "established": 2,
+    "closed": 9
+  },
+  {
+    "area": "43213_宇城市",
+    "established": 1,
+    "closed": 12
+  },
+  {
+    "area": "43214_阿蘇市",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "43215_天草市",
+    "established": 7,
+    "closed": 38
+  },
+  {
+    "area": "43216_合志市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "43348_美里町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "43364_玉東町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "43367_南関町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "43368_長洲町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "43369_和水町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "43403_大津町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "43404_菊陽町",
+    "established": 1,
+    "closed": 8
+  },
+  {
+    "area": "43423_南小国町",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "43424_小国町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "43425_産山村",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "43428_高森町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "43432_西原村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "43433_南阿蘇村",
+    "established": 3,
+    "closed": 10
+  },
+  {
+    "area": "43441_御船町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "43442_嘉島町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "43443_益城町",
+    "established": 2,
+    "closed": 6
+  },
+  {
+    "area": "43444_甲佐町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "43447_山都町",
+    "established": 2,
+    "closed": 12
+  },
+  {
+    "area": "43468_氷川町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "43482_芦北町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "43484_津奈木町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "43501_錦町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "43505_多良木町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "43506_湯前町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "43507_水上村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "43510_相良村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "43511_五木村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "43512_山江村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "43513_球磨村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "43514_あさぎり町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "43531_苓北町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "44201_大分市",
+    "established": 16,
+    "closed": 30
+  },
+  {
+    "area": "44202_別府市",
+    "established": 2,
+    "closed": 7
+  },
+  {
+    "area": "44203_中津市",
+    "established": 2,
+    "closed": 12
+  },
+  {
+    "area": "44204_日田市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "44205_佐伯市",
+    "established": 5,
+    "closed": 27
+  },
+  {
+    "area": "44206_臼杵市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "44207_津久見市",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "44208_竹田市",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "44209_豊後高田市",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "44210_杵築市",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "44211_宇佐市",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "44212_豊後大野市",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "44213_由布市",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "44214_国東市",
+    "established": 0,
+    "closed": 13
+  },
+  {
+    "area": "44322_姫島村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "44341_日出町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "44461_九重町",
+    "established": 2,
+    "closed": 8
+  },
+  {
+    "area": "44462_玖珠町",
+    "established": 2,
+    "closed": 15
+  },
+  {
+    "area": "45201_宮崎市",
+    "established": 10,
+    "closed": 140
+  },
+  {
+    "area": "45202_都城市",
+    "established": 11,
+    "closed": 60
+  },
+  {
+    "area": "45203_延岡市",
+    "established": 7,
+    "closed": 16
+  },
+  {
+    "area": "45204_日南市",
+    "established": 14,
+    "closed": 10
+  },
+  {
+    "area": "45205_小林市",
+    "established": 4,
+    "closed": 36
+  },
+  {
+    "area": "45206_日向市",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "45207_串間市",
+    "established": 2,
+    "closed": 9
+  },
+  {
+    "area": "45208_西都市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "45209_えびの市",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "45341_三股町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "45361_高原町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "45382_国富町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "45383_綾町",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "45401_高鍋町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "45402_新富町",
+    "established": 3,
+    "closed": 3
+  },
+  {
+    "area": "45403_西米良村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "45404_木城町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "45405_川南町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "45406_都農町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "45421_門川町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "45429_諸塚村",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "45430_椎葉村",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "45431_美郷町",
+    "established": 5,
+    "closed": 15
+  },
+  {
+    "area": "45441_高千穂町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "45442_日之影町",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "45443_五ヶ瀬町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "46201_鹿児島市",
+    "established": 6,
+    "closed": 58
+  },
+  {
+    "area": "46203_鹿屋市",
+    "established": 4,
+    "closed": 17
+  },
+  {
+    "area": "46204_枕崎市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "46206_阿久根市",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "46208_出水市",
+    "established": 6,
+    "closed": 27
+  },
+  {
+    "area": "46210_指宿市",
+    "established": 4,
+    "closed": 8
+  },
+  {
+    "area": "46213_西之表市",
+    "established": 1,
+    "closed": 9
+  },
+  {
+    "area": "46214_垂水市",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "46215_薩摩川内市",
+    "established": 3,
+    "closed": 35
+  },
+  {
+    "area": "46216_日置市",
+    "established": 3,
+    "closed": 12
+  },
+  {
+    "area": "46217_曽於市",
+    "established": 1,
+    "closed": 8
+  },
+  {
+    "area": "46218_霧島市",
+    "established": 4,
+    "closed": 18
+  },
+  {
+    "area": "46219_いちき串木野市",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "46220_南さつま市",
+    "established": 2,
+    "closed": 11
+  },
+  {
+    "area": "46221_志布志市",
+    "established": 2,
+    "closed": 3
+  },
+  {
+    "area": "46222_奄美市",
+    "established": 7,
+    "closed": 20
+  },
+  {
+    "area": "46223_南九州市",
+    "established": 1,
+    "closed": 22
+  },
+  {
+    "area": "46224_伊佐市",
+    "established": 4,
+    "closed": 5
+  },
+  {
+    "area": "46225_姶良市",
+    "established": 5,
+    "closed": 4
+  },
+  {
+    "area": "46303_三島村",
+    "established": 6,
+    "closed": 0
+  },
+  {
+    "area": "46304_十島村",
+    "established": 11,
+    "closed": 0
+  },
+  {
+    "area": "46392_さつま町",
+    "established": 0,
+    "closed": 13
+  },
+  {
+    "area": "46404_長島町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "46452_湧水町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "46468_大崎町",
+    "established": 0,
+    "closed": 2
+  },
+  {
+    "area": "46482_東串良町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "46490_錦江町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "46491_南大隅町",
+    "established": 0,
+    "closed": 1
+  },
+  {
+    "area": "46492_肝付町",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "46501_中種子町",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "46502_南種子町",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "46505_屋久島町",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "46523_大和村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "46524_宇検村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "46525_瀬戸内町",
+    "established": 9,
+    "closed": 12
+  },
+  {
+    "area": "46527_龍郷町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "46529_喜界町",
+    "established": 5,
+    "closed": 9
+  },
+  {
+    "area": "46530_徳之島町",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "46531_天城町",
+    "established": 1,
+    "closed": 2
+  },
+  {
+    "area": "46532_伊仙町",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "46533_和泊町",
+    "established": 0,
+    "closed": 7
+  },
+  {
+    "area": "46534_知名町",
+    "established": 3,
+    "closed": 10
+  },
+  {
+    "area": "46535_与論町",
+    "established": 2,
+    "closed": 2
+  },
+  {
+    "area": "47201_那覇市",
+    "established": 30,
+    "closed": 58
+  },
+  {
+    "area": "47205_宜野湾市",
+    "established": 3,
+    "closed": 8
+  },
+  {
+    "area": "47207_石垣市",
+    "established": 8,
+    "closed": 14
+  },
+  {
+    "area": "47208_浦添市",
+    "established": 4,
+    "closed": 38
+  },
+  {
+    "area": "47209_名護市",
+    "established": 3,
+    "closed": 7
+  },
+  {
+    "area": "47210_糸満市",
+    "established": 9,
+    "closed": 19
+  },
+  {
+    "area": "47211_沖縄市",
+    "established": 8,
+    "closed": 6
+  },
+  {
+    "area": "47212_豊見城市",
+    "established": 3,
+    "closed": 11
+  },
+  {
+    "area": "47213_うるま市",
+    "established": 2,
+    "closed": 17
+  },
+  {
+    "area": "47214_宮古島市",
+    "established": 17,
+    "closed": 32
+  },
+  {
+    "area": "47215_南城市",
+    "established": 4,
+    "closed": 14
+  },
+  {
+    "area": "47301_国頭村",
+    "established": 2,
+    "closed": 4
+  },
+  {
+    "area": "47302_大宜味村",
+    "established": 1,
+    "closed": 4
+  },
+  {
+    "area": "47303_東村",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "47306_今帰仁村",
+    "established": 0,
+    "closed": 4
+  },
+  {
+    "area": "47308_本部町",
+    "established": 0,
+    "closed": 6
+  },
+  {
+    "area": "47311_恩納村",
+    "established": 1,
+    "closed": 6
+  },
+  {
+    "area": "47313_宜野座村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "47314_金武町",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "47315_伊江村",
+    "established": 2,
+    "closed": 1
+  },
+  {
+    "area": "47324_読谷村",
+    "established": 3,
+    "closed": 6
+  },
+  {
+    "area": "47325_嘉手納町",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "47326_北谷町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "47327_北中城村",
+    "established": 0,
+    "closed": 3
+  },
+  {
+    "area": "47328_中城村",
+    "established": 3,
+    "closed": 0
+  },
+  {
+    "area": "47329_西原町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "47348_与那原町",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "47350_南風原町",
+    "established": 1,
+    "closed": 3
+  },
+  {
+    "area": "47353_渡嘉敷村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "47354_座間味村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "47355_粟国村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "47356_渡名喜村",
+    "established": 1,
+    "closed": 1
+  },
+  {
+    "area": "47357_南大東村",
+    "established": 1,
+    "closed": 0
+  },
+  {
+    "area": "47358_北大東村",
+    "established": 6,
+    "closed": 0
+  },
+  {
+    "area": "47359_伊平屋村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "47360_伊是名村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "47361_久米島町",
+    "established": 0,
+    "closed": 5
+  },
+  {
+    "area": "47362_八重瀬町",
+    "established": 1,
+    "closed": 5
+  },
+  {
+    "area": "47375_多良間村",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "47381_竹富町",
+    "established": 0,
+    "closed": 0
+  },
+  {
+    "area": "47382_与那国町",
+    "established": 1,
+    "closed": 0
+  }
+]

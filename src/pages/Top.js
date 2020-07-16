@@ -28,7 +28,9 @@ export const Top = () => {
         <li>
           <Link to="/density-plot">密度プロット</Link>
         </li>
-        <li>Hexbinプロット</li>
+        <li>
+          <Link to="/hexbin-plot">Hexbinプロット</Link>
+        </li>
         <li>ヒートマップ</li>
       </ul>
       <h2>高次元データ</h2>

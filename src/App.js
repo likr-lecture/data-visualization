@@ -10,6 +10,7 @@ import { ChordDiagramPage } from "./pages/ChordDiagram";
 import { ChoroplethMapPage } from "./pages/ChoroplethMap";
 import { DensityPlotPage } from "./pages/DensityPlot";
 import { DonutChartPage } from "./pages/DonutChart";
+import { HexbinPlotPage } from "./pages/HexbinPlot";
 import { LineChartPage } from "./pages/LineChart";
 import { NodeLinkDiagramPage } from "./pages/NodeLinkDiagram";
 import { PieChartPage } from "./pages/PieChart";
@@ -38,6 +39,7 @@ const App = () => {
             <Route path="/choropleth-map" component={ChoroplethMapPage} />
             <Route path="/density-plot" component={DensityPlotPage} />
             <Route path="/donut-chart" component={DonutChartPage} />
+            <Route path="/hexbin-plot" component={HexbinPlotPage} />
             <Route path="/line-chart" component={LineChartPage} />
             <Route path="/node-link-diagram" component={NodeLinkDiagramPage} />
             <Route path="/pie-chart" component={PieChartPage} />
