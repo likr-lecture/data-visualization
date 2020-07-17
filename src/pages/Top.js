@@ -38,6 +38,9 @@ export const Top = () => {
         <li>散布図行列</li>
         <li>レーダーチャート</li>
         <li>平行座標プロット</li>
+        <li>
+          <Link to="/radviz">Radviz</Link>
+        </li>
       </ul>
       <h2>時系列データ</h2>
       <ul>

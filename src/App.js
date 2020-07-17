@@ -14,6 +14,7 @@ import { HexbinPlotPage } from "./pages/HexbinPlot";
 import { LineChartPage } from "./pages/LineChart";
 import { NodeLinkDiagramPage } from "./pages/NodeLinkDiagram";
 import { PieChartPage } from "./pages/PieChart";
+import { RadvizPage } from "./pages/Radviz";
 import { ScatterPlotPage } from "./pages/ScatterPlot";
 import { TreemapPage } from "./pages/Treemap";
 
@@ -43,6 +44,7 @@ const App = () => {
             <Route path="/line-chart" component={LineChartPage} />
             <Route path="/node-link-diagram" component={NodeLinkDiagramPage} />
             <Route path="/pie-chart" component={PieChartPage} />
+            <Route path="/radviz" component={RadvizPage} />
             <Route path="/scatter-plot" component={ScatterPlotPage} />
             <Route path="/treemap" component={TreemapPage} />
           </Switch>
