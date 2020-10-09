@@ -13,6 +13,7 @@ import { DonutChartPage } from "./pages/DonutChart";
 import { HexbinPlotPage } from "./pages/HexbinPlot";
 import { LineChartPage } from "./pages/LineChart";
 import { NodeLinkDiagramPage } from "./pages/NodeLinkDiagram";
+import { ParallelCoordinatesPage } from "./pages/ParallelCoordinates";
 import { PieChartPage } from "./pages/PieChart";
 import { RadvizPage } from "./pages/Radviz";
 import { ScatterPlotPage } from "./pages/ScatterPlot";
@@ -43,6 +44,10 @@ const App = () => {
             <Route path="/hexbin-plot" component={HexbinPlotPage} />
             <Route path="/line-chart" component={LineChartPage} />
             <Route path="/node-link-diagram" component={NodeLinkDiagramPage} />
+            <Route
+              path="/parallel-coordinates"
+              component={ParallelCoordinatesPage}
+            />
             <Route path="/pie-chart" component={PieChartPage} />
             <Route path="/radviz" component={RadvizPage} />
             <Route path="/scatter-plot" component={ScatterPlotPage} />
