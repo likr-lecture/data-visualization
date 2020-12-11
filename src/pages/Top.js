@@ -36,7 +36,9 @@ export const Top = () => {
       <h2>高次元データ</h2>
       <ul>
         <li>散布図行列</li>
-        <li>レーダーチャート</li>
+        <li>
+          <Link to="/radar-chart">レーダーチャート</Link>
+        </li>
         <li>
           <Link to="/parallel-coordinates">平行座標プロット</Link>
         </li>

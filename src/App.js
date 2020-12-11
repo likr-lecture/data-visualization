@@ -15,6 +15,7 @@ import { LineChartPage } from "./pages/LineChart";
 import { NodeLinkDiagramPage } from "./pages/NodeLinkDiagram";
 import { ParallelCoordinatesPage } from "./pages/ParallelCoordinates";
 import { PieChartPage } from "./pages/PieChart";
+import { RadarChartPage } from "./pages/RadarChart";
 import { RadvizPage } from "./pages/Radviz";
 import { ScatterPlotPage } from "./pages/ScatterPlot";
 import { TreemapPage } from "./pages/Treemap";
@@ -49,6 +50,7 @@ const App = () => {
               component={ParallelCoordinatesPage}
             />
             <Route path="/pie-chart" component={PieChartPage} />
+            <Route path="/radar-chart" component={RadarChartPage} />
             <Route path="/radviz" component={RadvizPage} />
             <Route path="/scatter-plot" component={ScatterPlotPage} />
             <Route path="/treemap" component={TreemapPage} />
